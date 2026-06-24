@@ -1,0 +1,40 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual Environments
+
+venv/
+.env/
+
+# Models
+
+*.pkl
+*.joblib
+
+# Data Files
+
+data/*.csv
+data/*.xlsx
+data/*.parquet
+data/*.zip
+
+# Operating System
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# Streamlit
+
+.streamlit/secrets.toml
