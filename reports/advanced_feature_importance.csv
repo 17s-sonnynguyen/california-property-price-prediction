@@ -1,0 +1,2965 @@
+Model,Feature,Importance,Rank
+Gradient Boosting Reference,OutdoorSpaceApprox,0.36232913682131845,1
+Gradient Boosting Reference,LogListPrice,0.11132644565759937,2
+Gradient Boosting Reference,ListPrice,0.10346575169342702,3
+Gradient Boosting Reference,LivingAreaPerBedroom,0.08679202313967131,4
+Gradient Boosting Reference,LivingAreaPerBathroom,0.0758859705292668,5
+Gradient Boosting Reference,PropertyAgeSquared,0.06490277912236068,6
+Gradient Boosting Reference,PropertyAge,0.05252546043948132,7
+Gradient Boosting Reference,LotToLivingAreaRatio,0.03792679908494576,8
+Gradient Boosting Reference,City_Chula Vista,0.0325820869490375,9
+Gradient Boosting Reference,LivingArea,0.02880099609047508,10
+Gradient Boosting Reference,LogLivingArea,0.018589478258033355,11
+Gradient Boosting Reference,City_Ramona,0.010382776687433554,12
+Gradient Boosting Reference,LogLotSize,0.006852626756656429,13
+Gradient Boosting Reference,City_Lake Elsinore,0.0037368868339340937,14
+Gradient Boosting Reference,ListPricePerSquareFoot,0.001051977816181452,15
+Gradient Boosting Reference,City_Victorville,0.0009731418227049729,16
+Gradient Boosting Reference,BedBathRatio,0.0009418268881673723,17
+Gradient Boosting Reference,CountyOrParish_Riverside,0.0004129047025367786,18
+Gradient Boosting Reference,LotSizeSquareFeet,0.00028642865569867285,19
+Gradient Boosting Reference,TotalRoomsApprox,0.0001602444095162865,20
+Gradient Boosting Reference,IsOlderProperty,4.112034300107462e-05,21
+Gradient Boosting Reference,BathroomsTotalInteger,3.313729855264349e-05,22
+Gradient Boosting Reference,City_Rancho Cucamonga,0.0,23
+Gradient Boosting Reference,City_Rancho Santa Fe,0.0,24
+Gradient Boosting Reference,City_Rancho Penasquitos,0.0,25
+Gradient Boosting Reference,City_Rancho Palos Verdes,0.0,26
+Gradient Boosting Reference,City_Rancho Mission Viejo,0.0,27
+Gradient Boosting Reference,City_Rancho Mirage,0.0,28
+Gradient Boosting Reference,City_Rancho Dominguez,0.0,29
+Gradient Boosting Reference,City_Almanor,0.0,30
+Gradient Boosting Reference,City_Raymond,0.0,31
+Gradient Boosting Reference,City_Rancho Cordova,0.0,32
+Gradient Boosting Reference,City_Rancho Cascades,0.0,33
+Gradient Boosting Reference,City_Ranchita,0.0,34
+Gradient Boosting Reference,City_Albany,0.0,35
+Gradient Boosting Reference,City_Rainbow,0.0,36
+Gradient Boosting Reference,City_Rancho Santa Margarita,0.0,37
+Gradient Boosting Reference,City_Redding,0.0,38
+Gradient Boosting Reference,City_Red Bluff,0.0,39
+Gradient Boosting Reference,City_Quartz Hill,0.0,40
+Gradient Boosting Reference,City_Redlands,0.0,41
+Gradient Boosting Reference,City_Redondo Beach,0.0,42
+Gradient Boosting Reference,City_Redwood City,0.0,43
+Gradient Boosting Reference,City_Redwood Valley,0.0,44
+Gradient Boosting Reference,City_Reedley,0.0,45
+Gradient Boosting Reference,City_Rescue,0.0,46
+Gradient Boosting Reference,City_Reseda,0.0,47
+Gradient Boosting Reference,City_Reseda Ranch,0.0,48
+Gradient Boosting Reference,City_Rialto,0.0,49
+Gradient Boosting Reference,City_Richmond,0.0,50
+Gradient Boosting Reference,City_Richvale,0.0,51
+Gradient Boosting Reference,City_Quincy,0.0,52
+Gradient Boosting Reference,City_Prunedale,0.0,53
+Gradient Boosting Reference,City_Quail Valley,0.0,54
+Gradient Boosting Reference,City_Pleasant Hill,0.0,55
+Gradient Boosting Reference,City_Pine Valley,0.0,56
+Gradient Boosting Reference,City_Pinole,0.0,57
+Gradient Boosting Reference,City_Pinon Hills,0.0,58
+Gradient Boosting Reference,City_Pioneer,0.0,59
+Gradient Boosting Reference,City_Pioneertown,0.0,60
+Gradient Boosting Reference,City_Piru,0.0,61
+Gradient Boosting Reference,City_Pismo Beach,0.0,62
+Gradient Boosting Reference,City_Pittsburg,0.0,63
+Gradient Boosting Reference,City_Placentia,0.0,64
+Gradient Boosting Reference,City_Placerville,0.0,65
+Gradient Boosting Reference,City_Planada,0.0,66
+Gradient Boosting Reference,City_Playa Del Rey,0.0,67
+Gradient Boosting Reference,City_Pleasanton,0.0,68
+Gradient Boosting Reference,City_Rimforest,0.0,69
+Gradient Boosting Reference,City_Plumas Lake,0.0,70
+Gradient Boosting Reference,City_Point Arena,0.0,71
+Gradient Boosting Reference,City_Point Loma,0.0,72
+Gradient Boosting Reference,City_Pomona,0.0,73
+Gradient Boosting Reference,City_Port Costa,0.0,74
+Gradient Boosting Reference,City_Port Hueneme,0.0,75
+Gradient Boosting Reference,City_Porter Ranch,0.0,76
+Gradient Boosting Reference,City_Porterville,0.0,77
+Gradient Boosting Reference,City_Portola Valley,0.0,78
+Gradient Boosting Reference,City_Potrero,0.0,79
+Gradient Boosting Reference,City_Potter Valley,0.0,80
+Gradient Boosting Reference,City_Poway,0.0,81
+Gradient Boosting Reference,City_Ridgecrest,0.0,82
+Gradient Boosting Reference,City_Rio Vista,0.0,83
+Gradient Boosting Reference,City_Rio Linda,0.0,84
+Gradient Boosting Reference,City_San Mateo,0.0,85
+Gradient Boosting Reference,City_San Francisco,0.0,86
+Gradient Boosting Reference,City_San Gabriel,0.0,87
+Gradient Boosting Reference,City_San Jacinto,0.0,88
+Gradient Boosting Reference,City_San Jose,0.0,89
+Gradient Boosting Reference,City_San Juan Bautista,0.0,90
+Gradient Boosting Reference,City_San Juan Capistrano,0.0,91
+Gradient Boosting Reference,City_San Leandro,0.0,92
+Gradient Boosting Reference,City_San Lorenzo,0.0,93
+Gradient Boosting Reference,City_San Luis Obispo,0.0,94
+Gradient Boosting Reference,City_San Marcos,0.0,95
+Gradient Boosting Reference,City_San Marino,0.0,96
+Gradient Boosting Reference,City_San Martin,0.0,97
+Gradient Boosting Reference,City_San Miguel,0.0,98
+Gradient Boosting Reference,City_San Dimas,0.0,99
+Gradient Boosting Reference,City_San Pablo,0.0,100
+Gradient Boosting Reference,City_San Pedro,0.0,101
+Gradient Boosting Reference,City_San Rafael,0.0,102
+Gradient Boosting Reference,City_San Ramon,0.0,103
+Gradient Boosting Reference,City_San Simeon,0.0,104
+Gradient Boosting Reference,City_San Ysidro,0.0,105
+Gradient Boosting Reference,City_Sanger,0.0,106
+Gradient Boosting Reference,City_Santa Ana,0.0,107
+Gradient Boosting Reference,City_Santa Barbara,0.0,108
+Gradient Boosting Reference,City_Santa Clara,0.0,109
+Gradient Boosting Reference,City_Santa Clarita,0.0,110
+Gradient Boosting Reference,City_Santa Cruz,0.0,111
+Gradient Boosting Reference,City_San Fernando,0.0,112
+Gradient Boosting Reference,City_San Diego,0.0,113
+Gradient Boosting Reference,City_Pilot Hill,0.0,114
+Gradient Boosting Reference,City_Rossmoor,0.0,115
+Gradient Boosting Reference,City_Ripon,0.0,116
+Gradient Boosting Reference,City_Riverbank,0.0,117
+Gradient Boosting Reference,City_Riverdale,0.0,118
+Gradient Boosting Reference,City_Riverside,0.0,119
+Gradient Boosting Reference,City_Rocklin,0.0,120
+Gradient Boosting Reference,City_Rodeo,0.0,121
+Gradient Boosting Reference,City_Rohnert Park,0.0,122
+Gradient Boosting Reference,City_Rolling Hills,0.0,123
+Gradient Boosting Reference,City_Rolling Hills Estates,0.0,124
+Gradient Boosting Reference,City_Rosamond,0.0,125
+Gradient Boosting Reference,City_Rosemead,0.0,126
+Gradient Boosting Reference,City_Roseville,0.0,127
+Gradient Boosting Reference,City_Rowland Heights,0.0,128
+Gradient Boosting Reference,City_San Clemente,0.0,129
+Gradient Boosting Reference,City_Royal Oaks,0.0,130
+Gradient Boosting Reference,City_Running Springs,0.0,131
+Gradient Boosting Reference,City_Sacramento,0.0,132
+Gradient Boosting Reference,City_Salida,0.0,133
+Gradient Boosting Reference,City_Salinas,0.0,134
+Gradient Boosting Reference,City_Salton City,0.0,135
+Gradient Boosting Reference,City_Salton Sea Beach,0.0,136
+Gradient Boosting Reference,City_San Andreas,0.0,137
+Gradient Boosting Reference,City_San Anselmo,0.0,138
+Gradient Boosting Reference,City_San Bernardino,0.0,139
+Gradient Boosting Reference,City_San Bruno,0.0,140
+Gradient Boosting Reference,City_San Carlos,0.0,141
+Gradient Boosting Reference,City_Pine Mountain Club,0.0,142
+Gradient Boosting Reference,City_Pico Rivera,0.0,143
+Gradient Boosting Reference,City_Piedmont,0.0,144
+Gradient Boosting Reference,City_Nice,0.0,145
+Gradient Boosting Reference,City_National City,0.0,146
+Gradient Boosting Reference,City_Navarro,0.0,147
+Gradient Boosting Reference,City_Needles,0.0,148
+Gradient Boosting Reference,City_Nelson,0.0,149
+Gradient Boosting Reference,City_New Cuyama,0.0,150
+Gradient Boosting Reference,City_Newark,0.0,151
+Gradient Boosting Reference,City_Newberry Springs,0.0,152
+Gradient Boosting Reference,City_Newbury Park,0.0,153
+Gradient Boosting Reference,City_Newhall,0.0,154
+Gradient Boosting Reference,City_Newman,0.0,155
+Gradient Boosting Reference,City_Newport Beach,0.0,156
+Gradient Boosting Reference,City_Newport Coast,0.0,157
+Gradient Boosting Reference,City_Nipomo,0.0,158
+Gradient Boosting Reference,City_Myers Flat,0.0,159
+Gradient Boosting Reference,City_Norco,0.0,160
+Gradient Boosting Reference,City_North Edwards,0.0,161
+Gradient Boosting Reference,City_North Fork,0.0,162
+Gradient Boosting Reference,City_North Highlands,0.0,163
+Gradient Boosting Reference,City_North Hills,0.0,164
+Gradient Boosting Reference,City_North Hollywood,0.0,165
+Gradient Boosting Reference,City_North Palm Springs,0.0,166
+Gradient Boosting Reference,City_North Richmond,0.0,167
+Gradient Boosting Reference,City_North San Juan,0.0,168
+Gradient Boosting Reference,City_North Tustin,0.0,169
+Gradient Boosting Reference,City_Northridge,0.0,170
+Gradient Boosting Reference,City_Norwalk,0.0,171
+Gradient Boosting Reference,City_Napa,0.0,172
+Gradient Boosting Reference,City_Murrieta,0.0,173
+Gradient Boosting Reference,City_Nuevo,0.0,174
+Gradient Boosting Reference,City_Moraga,0.0,175
+Gradient Boosting Reference,City_Monrovia,0.0,176
+Gradient Boosting Reference,City_Montara,0.0,177
+Gradient Boosting Reference,City_Montclair,0.0,178
+Gradient Boosting Reference,City_Monte Rio,0.0,179
+Gradient Boosting Reference,City_Monte Sereno,0.0,180
+Gradient Boosting Reference,City_Montebello,0.0,181
+Gradient Boosting Reference,City_Montecito,0.0,182
+Gradient Boosting Reference,City_Montecito Heights,0.0,183
+Gradient Boosting Reference,City_Monterey,0.0,184
+Gradient Boosting Reference,City_Monterey Park,0.0,185
+Gradient Boosting Reference,City_Montrose,0.0,186
+Gradient Boosting Reference,City_Moorpark,0.0,187
+Gradient Boosting Reference,City_Moreno Valley,0.0,188
+Gradient Boosting Reference,City_Murphys,0.0,189
+Gradient Boosting Reference,City_Morgan Hill,0.0,190
+Gradient Boosting Reference,City_Morongo Valley,0.0,191
+Gradient Boosting Reference,City_Morro Bay,0.0,192
+Gradient Boosting Reference,City_Moss Beach,0.0,193
+Gradient Boosting Reference,City_Moss Landing,0.0,194
+Gradient Boosting Reference,City_Mount Hermon,0.0,195
+Gradient Boosting Reference,City_Mount Shasta,0.0,196
+Gradient Boosting Reference,City_Mountain Center,0.0,197
+Gradient Boosting Reference,City_Mountain House,0.0,198
+Gradient Boosting Reference,City_Mountain Mesa,0.0,199
+Gradient Boosting Reference,City_Mountain View,0.0,200
+Gradient Boosting Reference,City_Mt Baldy,0.0,201
+Gradient Boosting Reference,City_Novato,0.0,202
+Gradient Boosting Reference,City_O'Neals,0.0,203
+Gradient Boosting Reference,City_Santa Margarita,0.0,204
+Gradient Boosting Reference,City_Paramount,0.0,205
+Gradient Boosting Reference,City_Palermo,0.0,206
+Gradient Boosting Reference,City_Palm Desert,0.0,207
+Gradient Boosting Reference,City_Palm Springs,0.0,208
+Gradient Boosting Reference,City_Palmdale,0.0,209
+Gradient Boosting Reference,City_Palo Alto,0.0,210
+Gradient Boosting Reference,City_Palo Cedro,0.0,211
+Gradient Boosting Reference,City_Palomar Mountain,0.0,212
+Gradient Boosting Reference,City_Palos Verdes Estates,0.0,213
+Gradient Boosting Reference,City_Palos Verdes Peninsula,0.0,214
+Gradient Boosting Reference,City_Panorama City,0.0,215
+Gradient Boosting Reference,City_Paradise,0.0,216
+Gradient Boosting Reference,City_Paradise Hills,0.0,217
+Gradient Boosting Reference,City_Parlier,0.0,218
+Gradient Boosting Reference,City_Pacoima,0.0,219
+Gradient Boosting Reference,City_Pasadena,0.0,220
+Gradient Boosting Reference,City_Paso Robles,0.0,221
+Gradient Boosting Reference,City_Patterson,0.0,222
+Gradient Boosting Reference,City_Pauma Valley,0.0,223
+Gradient Boosting Reference,City_Pearblossom,0.0,224
+Gradient Boosting Reference,City_Pebble Beach,0.0,225
+Gradient Boosting Reference,City_Perris,0.0,226
+Gradient Boosting Reference,City_Pescadero,0.0,227
+Gradient Boosting Reference,City_Petaluma,0.0,228
+Gradient Boosting Reference,City_Phelan,0.0,229
+Gradient Boosting Reference,City_Phillips Ranch,0.0,230
+Gradient Boosting Reference,City_Philo,0.0,231
+Gradient Boosting Reference,City_Paicines,0.0,232
+Gradient Boosting Reference,City_Pacifica,0.0,233
+Gradient Boosting Reference,City_Oak Glen,0.0,234
+Gradient Boosting Reference,City_Ontario,0.0,235
+Gradient Boosting Reference,City_Oak Hills,0.0,236
+Gradient Boosting Reference,City_Oak Park,0.0,237
+Gradient Boosting Reference,City_Oak View,0.0,238
+Gradient Boosting Reference,City_Oakdale,0.0,239
+Gradient Boosting Reference,City_Oakhurst,0.0,240
+Gradient Boosting Reference,City_Oakland,0.0,241
+Gradient Boosting Reference,City_Oakley,0.0,242
+Gradient Boosting Reference,City_Oceano,0.0,243
+Gradient Boosting Reference,City_Oceanside,0.0,244
+Gradient Boosting Reference,City_Ojai,0.0,245
+Gradient Boosting Reference,City_Olancha,0.0,246
+Gradient Boosting Reference,City_Olivehurst,0.0,247
+Gradient Boosting Reference,City_Orange,0.0,248
+Gradient Boosting Reference,City_Pacific Palisades,0.0,249
+Gradient Boosting Reference,City_Orangevale,0.0,250
+Gradient Boosting Reference,City_Orinda,0.0,251
+Gradient Boosting Reference,City_Orland,0.0,252
+Gradient Boosting Reference,City_Oro Grande,0.0,253
+Gradient Boosting Reference,City_Orosi,0.0,254
+Gradient Boosting Reference,City_Oroville,0.0,255
+Gradient Boosting Reference,City_Ortega Mountain,0.0,256
+Gradient Boosting Reference,City_Otay Mesa,0.0,257
+Gradient Boosting Reference,City_Other,0.0,258
+Gradient Boosting Reference,City_Oxnard,0.0,259
+Gradient Boosting Reference,City_Pacheco,0.0,260
+Gradient Boosting Reference,City_Pacific Grove,0.0,261
+Gradient Boosting Reference,City_Santa Fe Springs,0.0,262
+Gradient Boosting Reference,City_Santa Monica,0.0,263
+Gradient Boosting Reference,City_Santa Maria,0.0,264
+Gradient Boosting Reference,City_Modjeska Canyon,0.0,265
+Gradient Boosting Reference,City_Wilton,0.0,266
+Gradient Boosting Reference,City_Winchester,0.0,267
+Gradient Boosting Reference,City_Windsor Hills,0.0,268
+Gradient Boosting Reference,City_Winnetka,0.0,269
+Gradient Boosting Reference,City_Winton,0.0,270
+Gradient Boosting Reference,City_Wishon,0.0,271
+Gradient Boosting Reference,City_Wofford Heights,0.0,272
+Gradient Boosting Reference,City_Woodbridge,0.0,273
+Gradient Boosting Reference,City_Woodcrest,0.0,274
+Gradient Boosting Reference,City_Woodland,0.0,275
+Gradient Boosting Reference,City_Woodland Hills,0.0,276
+Gradient Boosting Reference,City_Woodside,0.0,277
+Gradient Boosting Reference,City_Wrightwood,0.0,278
+Gradient Boosting Reference,City_Yermo,0.0,279
+Gradient Boosting Reference,City_Yorba Linda,0.0,280
+Gradient Boosting Reference,City_Yosemite,0.0,281
+Gradient Boosting Reference,City_Yreka,0.0,282
+Gradient Boosting Reference,City_Yuba City,0.0,283
+Gradient Boosting Reference,City_Yucaipa,0.0,284
+Gradient Boosting Reference,City_Yucca Valley,0.0,285
+Gradient Boosting Reference,CountyOrParish_Amador,0.0,286
+Gradient Boosting Reference,CountyOrParish_Butte,0.0,287
+Gradient Boosting Reference,CountyOrParish_Calaveras,0.0,288
+Gradient Boosting Reference,CountyOrParish_Colusa,0.0,289
+Gradient Boosting Reference,CountyOrParish_Contra Costa,0.0,290
+Gradient Boosting Reference,CountyOrParish_El Dorado,0.0,291
+Gradient Boosting Reference,CountyOrParish_Foreign Country,0.0,292
+Gradient Boosting Reference,City_Wilmington,0.0,293
+Gradient Boosting Reference,City_Willows,0.0,294
+Gradient Boosting Reference,City_Willits,0.0,295
+Gradient Boosting Reference,City_West Hollywood,0.0,296
+Gradient Boosting Reference,City_Walnut,0.0,297
+Gradient Boosting Reference,City_Walnut Creek,0.0,298
+Gradient Boosting Reference,City_Walnut Grove,0.0,299
+Gradient Boosting Reference,City_Warner Springs,0.0,300
+Gradient Boosting Reference,City_Wasco,0.0,301
+Gradient Boosting Reference,City_Waterford,0.0,302
+Gradient Boosting Reference,City_Watsonville,0.0,303
+Gradient Boosting Reference,City_Weaverville,0.0,304
+Gradient Boosting Reference,City_Weed,0.0,305
+Gradient Boosting Reference,City_Weldon,0.0,306
+Gradient Boosting Reference,City_West Covina,0.0,307
+Gradient Boosting Reference,City_West Hills,0.0,308
+Gradient Boosting Reference,City_West Los Angeles,0.0,309
+Gradient Boosting Reference,City_Williams,0.0,310
+Gradient Boosting Reference,City_West Point,0.0,311
+Gradient Boosting Reference,City_West Sacramento,0.0,312
+Gradient Boosting Reference,City_West Toluca Lake,0.0,313
+Gradient Boosting Reference,City_Westchester,0.0,314
+Gradient Boosting Reference,City_Westlake Village,0.0,315
+Gradient Boosting Reference,City_Westminster,0.0,316
+Gradient Boosting Reference,City_Westport,0.0,317
+Gradient Boosting Reference,City_Westwood,0.0,318
+Gradient Boosting Reference,City_Wheatland,0.0,319
+Gradient Boosting Reference,City_Whitewater,0.0,320
+Gradient Boosting Reference,City_Whittier,0.0,321
+Gradient Boosting Reference,City_Wildomar,0.0,322
+Gradient Boosting Reference,CountyOrParish_Fresno,0.0,323
+Gradient Boosting Reference,CountyOrParish_Glenn,0.0,324
+Gradient Boosting Reference,CountyOrParish_Humboldt,0.0,325
+Gradient Boosting Reference,CountyOrParish_Tuolumne,0.0,326
+Gradient Boosting Reference,CountyOrParish_Santa Barbara,0.0,327
+Gradient Boosting Reference,CountyOrParish_Santa Clara,0.0,328
+Gradient Boosting Reference,CountyOrParish_Santa Cruz,0.0,329
+Gradient Boosting Reference,CountyOrParish_Shasta,0.0,330
+Gradient Boosting Reference,CountyOrParish_Siskiyou,0.0,331
+Gradient Boosting Reference,CountyOrParish_Solano,0.0,332
+Gradient Boosting Reference,CountyOrParish_Sonoma,0.0,333
+Gradient Boosting Reference,CountyOrParish_Stanislaus,0.0,334
+Gradient Boosting Reference,CountyOrParish_Sutter,0.0,335
+Gradient Boosting Reference,CountyOrParish_Tehama,0.0,336
+Gradient Boosting Reference,CountyOrParish_Trinity,0.0,337
+Gradient Boosting Reference,CountyOrParish_Tulare,0.0,338
+Gradient Boosting Reference,CountyOrParish_Ventura,0.0,339
+Gradient Boosting Reference,CountyOrParish_San Luis Obispo,0.0,340
+Gradient Boosting Reference,CountyOrParish_Yolo,0.0,341
+Gradient Boosting Reference,CountyOrParish_Yuba,0.0,342
+Gradient Boosting Reference,City_Ahwahnee,0.0,343
+Gradient Boosting Reference,City_Aguanga,0.0,344
+Gradient Boosting Reference,City_Agua Dulce,0.0,345
+Gradient Boosting Reference,City_Agoura Hills,0.0,346
+Gradient Boosting Reference,City_Adelanto,0.0,347
+Gradient Boosting Reference,City_Acton,0.0,348
+Gradient Boosting Reference,City_Acampo,0.0,349
+Gradient Boosting Reference,BedroomsTotal,0.0,350
+Gradient Boosting Reference,IsNewProperty,0.0,351
+Gradient Boosting Reference,IsRecentProperty,0.0,352
+Gradient Boosting Reference,CountyOrParish_San Mateo,0.0,353
+Gradient Boosting Reference,CountyOrParish_San Joaquin,0.0,354
+Gradient Boosting Reference,CountyOrParish_Imperial,0.0,355
+Gradient Boosting Reference,CountyOrParish_Mono,0.0,356
+Gradient Boosting Reference,CountyOrParish_Inyo,0.0,357
+Gradient Boosting Reference,CountyOrParish_Kern,0.0,358
+Gradient Boosting Reference,CountyOrParish_Kings,0.0,359
+Gradient Boosting Reference,CountyOrParish_Lake,0.0,360
+Gradient Boosting Reference,CountyOrParish_Lassen,0.0,361
+Gradient Boosting Reference,CountyOrParish_Los Angeles,0.0,362
+Gradient Boosting Reference,CountyOrParish_Madera,0.0,363
+Gradient Boosting Reference,CountyOrParish_Marin,0.0,364
+Gradient Boosting Reference,CountyOrParish_Mariposa,0.0,365
+Gradient Boosting Reference,CountyOrParish_Mendocino,0.0,366
+Gradient Boosting Reference,CountyOrParish_Merced,0.0,367
+Gradient Boosting Reference,CountyOrParish_Modoc,0.0,368
+Gradient Boosting Reference,CountyOrParish_Monterey,0.0,369
+Gradient Boosting Reference,CountyOrParish_San Francisco,0.0,370
+Gradient Boosting Reference,CountyOrParish_Napa,0.0,371
+Gradient Boosting Reference,CountyOrParish_Nevada,0.0,372
+Gradient Boosting Reference,CountyOrParish_Orange,0.0,373
+Gradient Boosting Reference,CountyOrParish_Other,0.0,374
+Gradient Boosting Reference,CountyOrParish_Other State,0.0,375
+Gradient Boosting Reference,CountyOrParish_Placer,0.0,376
+Gradient Boosting Reference,CountyOrParish_Plumas,0.0,377
+Gradient Boosting Reference,City_Alameda,0.0,378
+Gradient Boosting Reference,CountyOrParish_Sacramento,0.0,379
+Gradient Boosting Reference,CountyOrParish_San Benito,0.0,380
+Gradient Boosting Reference,CountyOrParish_San Bernardino,0.0,381
+Gradient Boosting Reference,CountyOrParish_San Diego,0.0,382
+Gradient Boosting Reference,City_Vista,0.0,383
+Gradient Boosting Reference,City_Visalia,0.0,384
+Gradient Boosting Reference,City_Vina,0.0,385
+Gradient Boosting Reference,City_South Pasadena,0.0,386
+Gradient Boosting Reference,City_Solana Beach,0.0,387
+Gradient Boosting Reference,City_Soledad,0.0,388
+Gradient Boosting Reference,City_Solvang,0.0,389
+Gradient Boosting Reference,City_Somis,0.0,390
+Gradient Boosting Reference,City_Sonoma,0.0,391
+Gradient Boosting Reference,City_Sonora,0.0,392
+Gradient Boosting Reference,City_Soquel,0.0,393
+Gradient Boosting Reference,City_Soulsbyville,0.0,394
+Gradient Boosting Reference,City_South Dos Palos,0.0,395
+Gradient Boosting Reference,City_South El Monte,0.0,396
+Gradient Boosting Reference,City_South Gate,0.0,397
+Gradient Boosting Reference,City_South Lake Tahoe,0.0,398
+Gradient Boosting Reference,City_South San Francisco,0.0,399
+Gradient Boosting Reference,City_Sky Valley,0.0,400
+Gradient Boosting Reference,City_Spreckels,0.0,401
+Gradient Boosting Reference,City_Spring Valley,0.0,402
+Gradient Boosting Reference,City_Springville,0.0,403
+Gradient Boosting Reference,City_Squaw Valley,0.0,404
+Gradient Boosting Reference,City_Stanton,0.0,405
+Gradient Boosting Reference,City_Stevenson Ranch,0.0,406
+Gradient Boosting Reference,City_Stevinson,0.0,407
+Gradient Boosting Reference,City_Stockton,0.0,408
+Gradient Boosting Reference,City_Stonyford,0.0,409
+Gradient Boosting Reference,City_Strawberry,0.0,410
+Gradient Boosting Reference,City_Studio City,0.0,411
+Gradient Boosting Reference,City_Sugarloaf,0.0,412
+Gradient Boosting Reference,City_Soda Springs,0.0,413
+Gradient Boosting Reference,City_Simi Valley,0.0,414
+Gradient Boosting Reference,City_Summerland,0.0,415
+Gradient Boosting Reference,City_Seaside,0.0,416
+Gradient Boosting Reference,City_Santa Nella,0.0,417
+Gradient Boosting Reference,City_Santa Paula,0.0,418
+Gradient Boosting Reference,City_Santa Rosa,0.0,419
+Gradient Boosting Reference,City_Santa Ynez,0.0,420
+Gradient Boosting Reference,City_Santa Ysabel,0.0,421
+Gradient Boosting Reference,City_Santee,0.0,422
+Gradient Boosting Reference,City_Saratoga,0.0,423
+Gradient Boosting Reference,City_Saugus,0.0,424
+Gradient Boosting Reference,City_Sausalito,0.0,425
+Gradient Boosting Reference,City_Scotts Valley,0.0,426
+Gradient Boosting Reference,City_Scripps Miramar,0.0,427
+Gradient Boosting Reference,City_Seal Beach,0.0,428
+Gradient Boosting Reference,City_Sebastopol,0.0,429
+Gradient Boosting Reference,City_Silverado Canyon,0.0,430
+Gradient Boosting Reference,City_Selma,0.0,431
+Gradient Boosting Reference,City_Shadow Hills,0.0,432
+Gradient Boosting Reference,City_Shafter,0.0,433
+Gradient Boosting Reference,City_Shandon,0.0,434
+Gradient Boosting Reference,City_Shasta Lake,0.0,435
+Gradient Boosting Reference,City_Sherman Oaks,0.0,436
+Gradient Boosting Reference,City_Sherwood Forest,0.0,437
+Gradient Boosting Reference,City_Shingletown,0.0,438
+Gradient Boosting Reference,City_Sierra Madre,0.0,439
+Gradient Boosting Reference,City_Signal Hill,0.0,440
+Gradient Boosting Reference,City_Silver Lake,0.0,441
+Gradient Boosting Reference,City_Silverado,0.0,442
+Gradient Boosting Reference,City_Suisun City,0.0,443
+Gradient Boosting Reference,City_Sun City,0.0,444
+Gradient Boosting Reference,City_Villa Park,0.0,445
+Gradient Boosting Reference,City_Upper Lake,0.0,446
+Gradient Boosting Reference,City_Tuolumne,0.0,447
+Gradient Boosting Reference,City_Turlock,0.0,448
+Gradient Boosting Reference,City_Tustin,0.0,449
+Gradient Boosting Reference,City_Twain Harte,0.0,450
+Gradient Boosting Reference,City_Twentynine Palms,0.0,451
+Gradient Boosting Reference,City_Twin Peaks,0.0,452
+Gradient Boosting Reference,City_Ukiah,0.0,453
+Gradient Boosting Reference,City_Unincorporated,0.0,454
+Gradient Boosting Reference,City_Union City,0.0,455
+Gradient Boosting Reference,City_University City,0.0,456
+Gradient Boosting Reference,City_Unknown,0.0,457
+Gradient Boosting Reference,City_Upland,0.0,458
+Gradient Boosting Reference,City_Vacaville,0.0,459
+Gradient Boosting Reference,City_Tujunga,0.0,460
+Gradient Boosting Reference,City_Val Verde,0.0,461
+Gradient Boosting Reference,City_Valencia,0.0,462
+Gradient Boosting Reference,City_Vallejo,0.0,463
+Gradient Boosting Reference,City_Valley Center,0.0,464
+Gradient Boosting Reference,City_Valley Glen,0.0,465
+Gradient Boosting Reference,City_Valley Springs,0.0,466
+Gradient Boosting Reference,City_Valley Village,0.0,467
+Gradient Boosting Reference,City_Van Nuys,0.0,468
+Gradient Boosting Reference,City_Venice,0.0,469
+Gradient Boosting Reference,City_Ventura,0.0,470
+Gradient Boosting Reference,City_Alamo,0.0,471
+Gradient Boosting Reference,City_View Park,0.0,472
+Gradient Boosting Reference,City_Tulare,0.0,473
+Gradient Boosting Reference,City_Trona,0.0,474
+Gradient Boosting Reference,City_Sun Valley,0.0,475
+Gradient Boosting Reference,City_Temple City,0.0,476
+Gradient Boosting Reference,City_Sunland,0.0,477
+Gradient Boosting Reference,City_Sunnyvale,0.0,478
+Gradient Boosting Reference,City_Sunol,0.0,479
+Gradient Boosting Reference,City_Sunset Beach,0.0,480
+Gradient Boosting Reference,City_Surfside,0.0,481
+Gradient Boosting Reference,City_Susanville,0.0,482
+Gradient Boosting Reference,City_Sylmar,0.0,483
+Gradient Boosting Reference,City_Taft,0.0,484
+Gradient Boosting Reference,City_Tarzana,0.0,485
+Gradient Boosting Reference,City_Tehachapi,0.0,486
+Gradient Boosting Reference,City_Temecula,0.0,487
+Gradient Boosting Reference,City_Temescal Valley,0.0,488
+Gradient Boosting Reference,City_Templeton,0.0,489
+Gradient Boosting Reference,City_Trinity Center,0.0,490
+Gradient Boosting Reference,City_Terra Bella,0.0,491
+Gradient Boosting Reference,City_Thermal,0.0,492
+Gradient Boosting Reference,City_Thousand Oaks,0.0,493
+Gradient Boosting Reference,City_Thousand Palms,0.0,494
+Gradient Boosting Reference,City_Tierrasanta,0.0,495
+Gradient Boosting Reference,City_Tollhouse,0.0,496
+Gradient Boosting Reference,City_Toluca Lake,0.0,497
+Gradient Boosting Reference,City_Topanga,0.0,498
+Gradient Boosting Reference,City_Torrance,0.0,499
+Gradient Boosting Reference,City_Trabuco Canyon,0.0,500
+Gradient Boosting Reference,City_Tracy,0.0,501
+Gradient Boosting Reference,City_Tres Pinos,0.0,502
+Gradient Boosting Reference,City_Mojave,0.0,503
+Gradient Boosting Reference,City_Modesto,0.0,504
+Gradient Boosting Reference,City_Alpine,0.0,505
+Gradient Boosting Reference,City_Daly City,0.0,506
+Gradient Boosting Reference,City_Cold Springs,0.0,507
+Gradient Boosting Reference,City_Colton,0.0,508
+Gradient Boosting Reference,City_Columbia,0.0,509
+Gradient Boosting Reference,City_Commerce,0.0,510
+Gradient Boosting Reference,City_Compton,0.0,511
+Gradient Boosting Reference,City_Concord,0.0,512
+Gradient Boosting Reference,City_Copperopolis,0.0,513
+Gradient Boosting Reference,City_Corcoran,0.0,514
+Gradient Boosting Reference,City_Corning,0.0,515
+Gradient Boosting Reference,City_Corona,0.0,516
+Gradient Boosting Reference,City_Corona Del Mar,0.0,517
+Gradient Boosting Reference,City_Coronado,0.0,518
+Gradient Boosting Reference,City_Corralitos,0.0,519
+Gradient Boosting Reference,City_Costa Mesa,0.0,520
+Gradient Boosting Reference,City_Coto de Caza,0.0,521
+Gradient Boosting Reference,City_Cottonwood,0.0,522
+Gradient Boosting Reference,City_Covelo,0.0,523
+Gradient Boosting Reference,City_Covina,0.0,524
+Gradient Boosting Reference,City_Cowan Heights,0.0,525
+Gradient Boosting Reference,City_Crestline,0.0,526
+Gradient Boosting Reference,City_Creston,0.0,527
+Gradient Boosting Reference,City_Crockett,0.0,528
+Gradient Boosting Reference,City_Cudahy,0.0,529
+Gradient Boosting Reference,City_Culver City,0.0,530
+Gradient Boosting Reference,City_Cupertino,0.0,531
+Gradient Boosting Reference,City_Cutler,0.0,532
+Gradient Boosting Reference,City_Cypress,0.0,533
+Gradient Boosting Reference,City_Cobb,0.0,534
+Gradient Boosting Reference,City_Coarsegold,0.0,535
+Gradient Boosting Reference,City_Coalinga,0.0,536
+Gradient Boosting Reference,City_Chino,0.0,537
+Gradient Boosting Reference,City_Castroville,0.0,538
+Gradient Boosting Reference,City_Cathedral City,0.0,539
+Gradient Boosting Reference,City_Catheys Valley,0.0,540
+Gradient Boosting Reference,City_Cayucos,0.0,541
+Gradient Boosting Reference,City_Cazadero,0.0,542
+Gradient Boosting Reference,City_Cedar Glen,0.0,543
+Gradient Boosting Reference,City_Cedarpines Park,0.0,544
+Gradient Boosting Reference,City_Ceres,0.0,545
+Gradient Boosting Reference,City_Cerritos,0.0,546
+Gradient Boosting Reference,City_Chatsworth,0.0,547
+Gradient Boosting Reference,City_Cherry Valley,0.0,548
+Gradient Boosting Reference,City_Chico,0.0,549
+Gradient Boosting Reference,City_Chino Hills,0.0,550
+Gradient Boosting Reference,City_Coachella,0.0,551
+Gradient Boosting Reference,City_Chowchilla,0.0,552
+Gradient Boosting Reference,City_Aliso Viejo,0.0,553
+Gradient Boosting Reference,City_Citrus Heights,0.0,554
+Gradient Boosting Reference,City_City Terrace,0.0,555
+Gradient Boosting Reference,City_Clairemont Mesa,0.0,556
+Gradient Boosting Reference,City_Claremont,0.0,557
+Gradient Boosting Reference,City_Clayton,0.0,558
+Gradient Boosting Reference,City_Clearlake,0.0,559
+Gradient Boosting Reference,City_Clearlake Oaks,0.0,560
+Gradient Boosting Reference,City_Clio,0.0,561
+Gradient Boosting Reference,City_Clipper Mills,0.0,562
+Gradient Boosting Reference,City_Clovis,0.0,563
+Gradient Boosting Reference,City_Cypress Park,0.0,564
+Gradient Boosting Reference,City_Dana Point,0.0,565
+Gradient Boosting Reference,City_Mission Viejo,0.0,566
+Gradient Boosting Reference,City_Danville,0.0,567
+Gradient Boosting Reference,City_Eastvale,0.0,568
+Gradient Boosting Reference,City_Echo Park,0.0,569
+Gradient Boosting Reference,City_Edwards,0.0,570
+Gradient Boosting Reference,City_El Cajon,0.0,571
+Gradient Boosting Reference,City_El Centro,0.0,572
+Gradient Boosting Reference,City_El Cerrito,0.0,573
+Gradient Boosting Reference,City_El Dorado Hills,0.0,574
+Gradient Boosting Reference,City_El Granada,0.0,575
+Gradient Boosting Reference,City_El Mirage,0.0,576
+Gradient Boosting Reference,City_El Monte,0.0,577
+Gradient Boosting Reference,City_El Portal,0.0,578
+Gradient Boosting Reference,City_El Segundo,0.0,579
+Gradient Boosting Reference,City_El Sereno,0.0,580
+Gradient Boosting Reference,City_El Sobrante,0.0,581
+Gradient Boosting Reference,City_Elk,0.0,582
+Gradient Boosting Reference,City_Elk Creek,0.0,583
+Gradient Boosting Reference,City_Elk Grove,0.0,584
+Gradient Boosting Reference,City_Emeryville,0.0,585
+Gradient Boosting Reference,City_Empire,0.0,586
+Gradient Boosting Reference,City_Encanto,0.0,587
+Gradient Boosting Reference,City_Encinitas,0.0,588
+Gradient Boosting Reference,City_Encino,0.0,589
+Gradient Boosting Reference,City_Escalon,0.0,590
+Gradient Boosting Reference,City_Escondido,0.0,591
+Gradient Boosting Reference,City_Eureka,0.0,592
+Gradient Boosting Reference,City_Exeter,0.0,593
+Gradient Boosting Reference,City_Fair Oaks,0.0,594
+Gradient Boosting Reference,City_East Palo Alto,0.0,595
+Gradient Boosting Reference,City_East Los Angeles,0.0,596
+Gradient Boosting Reference,City_Eagle Rock,0.0,597
+Gradient Boosting Reference,City_Diamond Bar,0.0,598
+Gradient Boosting Reference,City_Davis,0.0,599
+Gradient Boosting Reference,City_Del Mar,0.0,600
+Gradient Boosting Reference,City_Del Rey,0.0,601
+Gradient Boosting Reference,City_Del Rey Oaks,0.0,602
+Gradient Boosting Reference,City_Delano,0.0,603
+Gradient Boosting Reference,City_Delhi,0.0,604
+Gradient Boosting Reference,City_Denair,0.0,605
+Gradient Boosting Reference,City_Descanso,0.0,606
+Gradient Boosting Reference,City_Desert Center,0.0,607
+Gradient Boosting Reference,City_Desert Hot Springs,0.0,608
+Gradient Boosting Reference,City_Devore,0.0,609
+Gradient Boosting Reference,City_Diablo,0.0,610
+Gradient Boosting Reference,City_Dillon Beach,0.0,611
+Gradient Boosting Reference,City_Durham,0.0,612
+Gradient Boosting Reference,City_Dinuba,0.0,613
+Gradient Boosting Reference,City_Discovery Bay,0.0,614
+Gradient Boosting Reference,City_Dixon,0.0,615
+Gradient Boosting Reference,City_Dobbins,0.0,616
+Gradient Boosting Reference,City_Dorrington,0.0,617
+Gradient Boosting Reference,City_Dos Palos,0.0,618
+Gradient Boosting Reference,City_Downey,0.0,619
+Gradient Boosting Reference,City_Duarte,0.0,620
+Gradient Boosting Reference,City_Dublin,0.0,621
+Gradient Boosting Reference,City_Dulzura,0.0,622
+Gradient Boosting Reference,City_Dunnigan,0.0,623
+Gradient Boosting Reference,City_Dunsmuir,0.0,624
+Gradient Boosting Reference,City_Castro Valley,0.0,625
+Gradient Boosting Reference,City_Castaic,0.0,626
+Gradient Boosting Reference,City_Caruthers,0.0,627
+Gradient Boosting Reference,City_Carson,0.0,628
+Gradient Boosting Reference,City_Auberry,0.0,629
+Gradient Boosting Reference,City_Auburn,0.0,630
+Gradient Boosting Reference,City_Avalon,0.0,631
+Gradient Boosting Reference,City_Avenal,0.0,632
+Gradient Boosting Reference,City_Avila Beach,0.0,633
+Gradient Boosting Reference,City_Azusa,0.0,634
+Gradient Boosting Reference,City_Bakersfield,0.0,635
+Gradient Boosting Reference,City_Baldwin Hills,0.0,636
+Gradient Boosting Reference,City_Baldwin Park,0.0,637
+Gradient Boosting Reference,City_Bangor,0.0,638
+Gradient Boosting Reference,City_Banning,0.0,639
+Gradient Boosting Reference,City_Barstow,0.0,640
+Gradient Boosting Reference,City_Bass Lake,0.0,641
+Gradient Boosting Reference,City_Bay Point,0.0,642
+Gradient Boosting Reference,City_Beaumont,0.0,643
+Gradient Boosting Reference,City_Bel Air,0.0,644
+Gradient Boosting Reference,City_Bell,0.0,645
+Gradient Boosting Reference,City_Bell Canyon,0.0,646
+Gradient Boosting Reference,City_Bell Gardens,0.0,647
+Gradient Boosting Reference,City_Bellflower,0.0,648
+Gradient Boosting Reference,City_Belmont,0.0,649
+Gradient Boosting Reference,City_Ben Lomond,0.0,650
+Gradient Boosting Reference,City_Benicia,0.0,651
+Gradient Boosting Reference,City_Berkeley,0.0,652
+Gradient Boosting Reference,City_Bermuda Dunes,0.0,653
+Gradient Boosting Reference,City_Berry Creek,0.0,654
+Gradient Boosting Reference,City_Bethel Island,0.0,655
+Gradient Boosting Reference,City_Atwater Village,0.0,656
+Gradient Boosting Reference,City_Atwater,0.0,657
+Gradient Boosting Reference,City_Atherton,0.0,658
+Gradient Boosting Reference,City_Antioch,0.0,659
+Gradient Boosting Reference,City_Alta Loma,0.0,660
+Gradient Boosting Reference,City_Altadena,0.0,661
+Gradient Boosting Reference,City_Alturas,0.0,662
+Gradient Boosting Reference,City_Alviso,0.0,663
+Gradient Boosting Reference,City_American Canyon,0.0,664
+Gradient Boosting Reference,City_Anaheim,0.0,665
+Gradient Boosting Reference,City_Anaheim Hills,0.0,666
+Gradient Boosting Reference,City_Anderson,0.0,667
+Gradient Boosting Reference,City_Angels Camp,0.0,668
+Gradient Boosting Reference,City_Angelus Oaks,0.0,669
+Gradient Boosting Reference,City_Angwin,0.0,670
+Gradient Boosting Reference,City_Antelope,0.0,671
+Gradient Boosting Reference,City_Anza,0.0,672
+Gradient Boosting Reference,City_Atascadero,0.0,673
+Gradient Boosting Reference,City_Apple Valley,0.0,674
+Gradient Boosting Reference,City_Aptos,0.0,675
+Gradient Boosting Reference,City_Arbuckle,0.0,676
+Gradient Boosting Reference,City_Arcadia,0.0,677
+Gradient Boosting Reference,City_Arleta,0.0,678
+Gradient Boosting Reference,City_Arnold,0.0,679
+Gradient Boosting Reference,City_Aromas,0.0,680
+Gradient Boosting Reference,City_Arrowbear,0.0,681
+Gradient Boosting Reference,City_Arroyo Grande,0.0,682
+Gradient Boosting Reference,City_Artesia,0.0,683
+Gradient Boosting Reference,City_Artois,0.0,684
+Gradient Boosting Reference,City_Arvin,0.0,685
+Gradient Boosting Reference,City_Beverly Hills,0.0,686
+Gradient Boosting Reference,City_Big Bar,0.0,687
+Gradient Boosting Reference,City_Big Bear,0.0,688
+Gradient Boosting Reference,City_Cameron Park,0.0,689
+Gradient Boosting Reference,City_Burson,0.0,690
+Gradient Boosting Reference,City_Butte Meadows,0.0,691
+Gradient Boosting Reference,City_Butte Valley,0.0,692
+Gradient Boosting Reference,City_Byron,0.0,693
+Gradient Boosting Reference,City_Cabazon,0.0,694
+Gradient Boosting Reference,City_Calabasas,0.0,695
+Gradient Boosting Reference,City_Calexico,0.0,696
+Gradient Boosting Reference,City_Caliente,0.0,697
+Gradient Boosting Reference,City_California City,0.0,698
+Gradient Boosting Reference,City_Calimesa,0.0,699
+Gradient Boosting Reference,City_Camarillo,0.0,700
+Gradient Boosting Reference,City_Cambria,0.0,701
+Gradient Boosting Reference,City_Campbell,0.0,702
+Gradient Boosting Reference,City_Burbank,0.0,703
+Gradient Boosting Reference,City_Campo,0.0,704
+Gradient Boosting Reference,City_Camptonville,0.0,705
+Gradient Boosting Reference,City_Canoga Park,0.0,706
+Gradient Boosting Reference,City_Canyon Country,0.0,707
+Gradient Boosting Reference,City_Canyon Lake,0.0,708
+Gradient Boosting Reference,City_Capitola,0.0,709
+Gradient Boosting Reference,City_Cardiff By The Sea,0.0,710
+Gradient Boosting Reference,City_Carlsbad,0.0,711
+Gradient Boosting Reference,City_Carmel,0.0,712
+Gradient Boosting Reference,City_Carmel Valley,0.0,713
+Gradient Boosting Reference,City_Carmichael,0.0,714
+Gradient Boosting Reference,City_Carpinteria,0.0,715
+Gradient Boosting Reference,City_Burlingame,0.0,716
+Gradient Boosting Reference,City_Bullhead City,0.0,717
+Gradient Boosting Reference,City_Big Bear City,0.0,718
+Gradient Boosting Reference,City_Boron,0.0,719
+Gradient Boosting Reference,City_Big Bear Lake,0.0,720
+Gradient Boosting Reference,City_Big River,0.0,721
+Gradient Boosting Reference,City_Big Sur,0.0,722
+Gradient Boosting Reference,City_Biggs,0.0,723
+Gradient Boosting Reference,City_Bishop,0.0,724
+Gradient Boosting Reference,City_Bloomington,0.0,725
+Gradient Boosting Reference,City_Blue Jay,0.0,726
+Gradient Boosting Reference,City_Blythe,0.0,727
+Gradient Boosting Reference,City_Bodfish,0.0,728
+Gradient Boosting Reference,City_Bombay Beach,0.0,729
+Gradient Boosting Reference,City_Bonita,0.0,730
+Gradient Boosting Reference,City_Bonsall,0.0,731
+Gradient Boosting Reference,City_Borrego Springs,0.0,732
+Gradient Boosting Reference,City_Buena Park,0.0,733
+Gradient Boosting Reference,City_Boulder Creek,0.0,734
+Gradient Boosting Reference,City_Boulevard,0.0,735
+Gradient Boosting Reference,City_Bradbury,0.0,736
+Gradient Boosting Reference,City_Bradley,0.0,737
+Gradient Boosting Reference,City_Brawley,0.0,738
+Gradient Boosting Reference,City_Brea,0.0,739
+Gradient Boosting Reference,City_Brentwood,0.0,740
+Gradient Boosting Reference,City_Brisbane,0.0,741
+Gradient Boosting Reference,City_Brookdale,0.0,742
+Gradient Boosting Reference,City_Browns Valley,0.0,743
+Gradient Boosting Reference,City_Brownsville,0.0,744
+Gradient Boosting Reference,City_Buellton,0.0,745
+Gradient Boosting Reference,City_Fairfax,0.0,746
+Gradient Boosting Reference,City_Fairfield,0.0,747
+Gradient Boosting Reference,City_Fallbrook,0.0,748
+Gradient Boosting Reference,City_La Honda,0.0,749
+Gradient Boosting Reference,City_Lakewood,0.0,750
+Gradient Boosting Reference,City_Lamont,0.0,751
+Gradient Boosting Reference,City_Lancaster,0.0,752
+Gradient Boosting Reference,City_Landers,0.0,753
+Gradient Boosting Reference,City_Lathrop,0.0,754
+Gradient Boosting Reference,City_Lawndale,0.0,755
+Gradient Boosting Reference,City_Laytonville,0.0,756
+Gradient Boosting Reference,City_Le Grand,0.0,757
+Gradient Boosting Reference,City_Lebec,0.0,758
+Gradient Boosting Reference,City_Leimert Park,0.0,759
+Gradient Boosting Reference,City_Lemon Grove,0.0,760
+Gradient Boosting Reference,City_Lemoore,0.0,761
+Gradient Boosting Reference,City_Lennox,0.0,762
+Gradient Boosting Reference,City_Leona Valley,0.0,763
+Gradient Boosting Reference,City_Lewiston,0.0,764
+Gradient Boosting Reference,City_Lincoln,0.0,765
+Gradient Boosting Reference,City_Lincoln Heights,0.0,766
+Gradient Boosting Reference,City_Linda,0.0,767
+Gradient Boosting Reference,City_Linden,0.0,768
+Gradient Boosting Reference,City_Lindsay,0.0,769
+Gradient Boosting Reference,City_Little River,0.0,770
+Gradient Boosting Reference,City_Littlerock,0.0,771
+Gradient Boosting Reference,City_Live Oak,0.0,772
+Gradient Boosting Reference,City_Livermore,0.0,773
+Gradient Boosting Reference,City_Livingston,0.0,774
+Gradient Boosting Reference,City_Llano,0.0,775
+Gradient Boosting Reference,City_Loch Lomond,0.0,776
+Gradient Boosting Reference,City_Lakeview Terrace,0.0,777
+Gradient Boosting Reference,City_Lakeside,0.0,778
+Gradient Boosting Reference,City_Lakeport,0.0,779
+Gradient Boosting Reference,City_Laguna Hills,0.0,780
+Gradient Boosting Reference,City_La Mesa,0.0,781
+Gradient Boosting Reference,City_La Mirada,0.0,782
+Gradient Boosting Reference,City_La Palma,0.0,783
+Gradient Boosting Reference,City_La Porte,0.0,784
+Gradient Boosting Reference,City_La Puente,0.0,785
+Gradient Boosting Reference,City_La Quinta,0.0,786
+Gradient Boosting Reference,City_La Selva Beach,0.0,787
+Gradient Boosting Reference,City_La Verne,0.0,788
+Gradient Boosting Reference,City_Ladera Heights,0.0,789
+Gradient Boosting Reference,City_Ladera Ranch,0.0,790
+Gradient Boosting Reference,City_Lafayette,0.0,791
+Gradient Boosting Reference,City_Laguna Beach,0.0,792
+Gradient Boosting Reference,City_Laguna Niguel,0.0,793
+Gradient Boosting Reference,City_Lake Sherwood,0.0,794
+Gradient Boosting Reference,City_Laguna Woods,0.0,795
+Gradient Boosting Reference,City_Lake Almanor,0.0,796
+Gradient Boosting Reference,City_Lake Arrowhead,0.0,797
+Gradient Boosting Reference,City_Lake Balboa,0.0,798
+Gradient Boosting Reference,City_Lake Elizabeth,0.0,799
+Gradient Boosting Reference,City_Alhambra,0.0,800
+Gradient Boosting Reference,City_Lake Forest,0.0,801
+Gradient Boosting Reference,City_Lake Hughes,0.0,802
+Gradient Boosting Reference,City_Lake Isabella,0.0,803
+Gradient Boosting Reference,City_Lake Los Angeles,0.0,804
+Gradient Boosting Reference,City_Lake Mathews,0.0,805
+Gradient Boosting Reference,City_Lake Nacimiento,0.0,806
+Gradient Boosting Reference,City_Lockeford,0.0,807
+Gradient Boosting Reference,City_Lockwood,0.0,808
+Gradient Boosting Reference,City_Lodi,0.0,809
+Gradient Boosting Reference,City_Mentone,0.0,810
+Gradient Boosting Reference,City_Maricopa,0.0,811
+Gradient Boosting Reference,City_Marina,0.0,812
+Gradient Boosting Reference,City_Marina Del Rey,0.0,813
+Gradient Boosting Reference,City_Mariposa,0.0,814
+Gradient Boosting Reference,City_Martinez,0.0,815
+Gradient Boosting Reference,City_Marysville,0.0,816
+Gradient Boosting Reference,City_Maywood,0.0,817
+Gradient Boosting Reference,City_McFarland,0.0,818
+Gradient Boosting Reference,City_Mecca,0.0,819
+Gradient Boosting Reference,City_Mendocino,0.0,820
+Gradient Boosting Reference,City_Menifee,0.0,821
+Gradient Boosting Reference,City_Menlo Park,0.0,822
+Gradient Boosting Reference,City_Merced,0.0,823
+Gradient Boosting Reference,City_Manteca,0.0,824
+Gradient Boosting Reference,City_Mi Wuk Village,0.0,825
+Gradient Boosting Reference,City_Middletown,0.0,826
+Gradient Boosting Reference,City_Midpines,0.0,827
+Gradient Boosting Reference,City_Midway City,0.0,828
+Gradient Boosting Reference,City_Albion,0.0,829
+Gradient Boosting Reference,City_Millbrae,0.0,830
+Gradient Boosting Reference,City_Milpitas,0.0,831
+Gradient Boosting Reference,City_Mineral,0.0,832
+Gradient Boosting Reference,City_Mira Mesa,0.0,833
+Gradient Boosting Reference,City_Miramonte,0.0,834
+Gradient Boosting Reference,City_Mission Hills,0.0,835
+Gradient Boosting Reference,City_Mission Valley,0.0,836
+Gradient Boosting Reference,City_Mar Vista,0.0,837
+Gradient Boosting Reference,City_Manhattan Beach,0.0,838
+Gradient Boosting Reference,City_Loma Linda,0.0,839
+Gradient Boosting Reference,City_Los Feliz,0.0,840
+Gradient Boosting Reference,City_Loma Mar,0.0,841
+Gradient Boosting Reference,City_Loma Rica,0.0,842
+Gradient Boosting Reference,City_Lomita,0.0,843
+Gradient Boosting Reference,City_Lompoc,0.0,844
+Gradient Boosting Reference,City_Long Beach,0.0,845
+Gradient Boosting Reference,City_Loomis,0.0,846
+Gradient Boosting Reference,City_Los Alamitos,0.0,847
+Gradient Boosting Reference,City_Los Alamos,0.0,848
+Gradient Boosting Reference,City_Los Altos,0.0,849
+Gradient Boosting Reference,City_Los Altos Hills,0.0,850
+Gradient Boosting Reference,City_Los Angeles,0.0,851
+Gradient Boosting Reference,City_Los Banos,0.0,852
+Gradient Boosting Reference,City_Los Gatos,0.0,853
+Gradient Boosting Reference,City_Manchester,0.0,854
+Gradient Boosting Reference,City_Los Molinos,0.0,855
+Gradient Boosting Reference,City_Los Olivos,0.0,856
+Gradient Boosting Reference,City_Los Osos,0.0,857
+Gradient Boosting Reference,City_Lower Lake,0.0,858
+Gradient Boosting Reference,City_Lucerne,0.0,859
+Gradient Boosting Reference,City_Lucerne Valley,0.0,860
+Gradient Boosting Reference,City_Lynwood,0.0,861
+Gradient Boosting Reference,City_Lytle Creek,0.0,862
+Gradient Boosting Reference,City_Madera,0.0,863
+Gradient Boosting Reference,City_Magalia,0.0,864
+Gradient Boosting Reference,City_Malibu,0.0,865
+Gradient Boosting Reference,City_Mammoth Lakes,0.0,866
+Gradient Boosting Reference,City_La Jolla,0.0,867
+Gradient Boosting Reference,City_La Habra Heights,0.0,868
+Gradient Boosting Reference,City_Fawnskin,0.0,869
+Gradient Boosting Reference,City_La Habra,0.0,870
+Gradient Boosting Reference,City_Glendale,0.0,871
+Gradient Boosting Reference,City_Glendora,0.0,872
+Gradient Boosting Reference,City_Glenhaven,0.0,873
+Gradient Boosting Reference,City_Glenn,0.0,874
+Gradient Boosting Reference,City_Gold River,0.0,875
+Gradient Boosting Reference,City_Goleta,0.0,876
+Gradient Boosting Reference,City_Gonzales,0.0,877
+Gradient Boosting Reference,City_Granada Hills,0.0,878
+Gradient Boosting Reference,City_Grand Terrace,0.0,879
+Gradient Boosting Reference,City_Granite Bay,0.0,880
+Gradient Boosting Reference,City_Grass Valley,0.0,881
+Gradient Boosting Reference,City_Green Valley,0.0,882
+Gradient Boosting Reference,City_Green Valley Lake,0.0,883
+Gradient Boosting Reference,City_Greenfield,0.0,884
+Gradient Boosting Reference,City_Gridley,0.0,885
+Gradient Boosting Reference,City_Groveland,0.0,886
+Gradient Boosting Reference,City_Grover Beach,0.0,887
+Gradient Boosting Reference,City_Guadalupe,0.0,888
+Gradient Boosting Reference,City_Gualala,0.0,889
+Gradient Boosting Reference,City_Guatay,0.0,890
+Gradient Boosting Reference,City_Gustine,0.0,891
+Gradient Boosting Reference,City_Hacienda Heights,0.0,892
+Gradient Boosting Reference,City_Half Moon Bay,0.0,893
+Gradient Boosting Reference,City_Hanford,0.0,894
+Gradient Boosting Reference,City_Harbor City,0.0,895
+Gradient Boosting Reference,City_Hawaiian Gardens,0.0,896
+Gradient Boosting Reference,City_Hawthorne,0.0,897
+Gradient Boosting Reference,City_Glencoe,0.0,898
+Gradient Boosting Reference,City_Glen Ellen,0.0,899
+Gradient Boosting Reference,City_Glassell Park,0.0,900
+Gradient Boosting Reference,City_Foster City,0.0,901
+Gradient Boosting Reference,City_Felton,0.0,902
+Gradient Boosting Reference,City_Fillmore,0.0,903
+Gradient Boosting Reference,City_Firebaugh,0.0,904
+Gradient Boosting Reference,City_Flournoy,0.0,905
+Gradient Boosting Reference,City_Folsom,0.0,906
+Gradient Boosting Reference,City_Fontana,0.0,907
+Gradient Boosting Reference,City_Forbestown,0.0,908
+Gradient Boosting Reference,City_Forest Falls,0.0,909
+Gradient Boosting Reference,City_Forest Ranch,0.0,910
+Gradient Boosting Reference,City_Foresthill,0.0,911
+Gradient Boosting Reference,City_Fort Bragg,0.0,912
+Gradient Boosting Reference,City_Fortuna,0.0,913
+Gradient Boosting Reference,City_Fountain Valley,0.0,914
+Gradient Boosting Reference,City_Gilroy,0.0,915
+Gradient Boosting Reference,City_Fowler,0.0,916
+Gradient Boosting Reference,City_Frazier Park,0.0,917
+Gradient Boosting Reference,City_Freedom,0.0,918
+Gradient Boosting Reference,City_Fremont,0.0,919
+Gradient Boosting Reference,City_French Valley,0.0,920
+Gradient Boosting Reference,City_Fresno,0.0,921
+Gradient Boosting Reference,City_Friant,0.0,922
+Gradient Boosting Reference,City_Fullerton,0.0,923
+Gradient Boosting Reference,City_Galt,0.0,924
+Gradient Boosting Reference,City_Garden Grove,0.0,925
+Gradient Boosting Reference,City_Gardena,0.0,926
+Gradient Boosting Reference,City_Gerber,0.0,927
+Gradient Boosting Reference,City_Hayfork,0.0,928
+Gradient Boosting Reference,City_Hayward,0.0,929
+Gradient Boosting Reference,City_Healdsburg,0.0,930
+Gradient Boosting Reference,City_Jurupa Valley,0.0,931
+Gradient Boosting Reference,City_Irwindale,0.0,932
+Gradient Boosting Reference,City_Isleton,0.0,933
+Gradient Boosting Reference,City_Jackson,0.0,934
+Gradient Boosting Reference,City_Jacumba,0.0,935
+Gradient Boosting Reference,City_Jamestown,0.0,936
+Gradient Boosting Reference,City_Jamul,0.0,937
+Gradient Boosting Reference,City_Janesville,0.0,938
+Gradient Boosting Reference,City_Johnson Valley,0.0,939
+Gradient Boosting Reference,City_Joshua Tree,0.0,940
+Gradient Boosting Reference,City_Julian,0.0,941
+Gradient Boosting Reference,City_Junction City,0.0,942
+Gradient Boosting Reference,City_Juniper Hills,0.0,943
+Gradient Boosting Reference,City_Keene,0.0,944
+Gradient Boosting Reference,City_Ione,0.0,945
+Gradient Boosting Reference,City_Kelseyville,0.0,946
+Gradient Boosting Reference,City_Kennedy Meadows,0.0,947
+Gradient Boosting Reference,City_Kensington,0.0,948
+Gradient Boosting Reference,City_Kerman,0.0,949
+Gradient Boosting Reference,City_Kernville,0.0,950
+Gradient Boosting Reference,City_King City,0.0,951
+Gradient Boosting Reference,City_Kings Beach,0.0,952
+Gradient Boosting Reference,City_Kingsburg,0.0,953
+Gradient Boosting Reference,City_Knightsen,0.0,954
+Gradient Boosting Reference,City_La Canada Flintridge,0.0,955
+Gradient Boosting Reference,City_La Crescenta,0.0,956
+Gradient Boosting Reference,City_La Grange,0.0,957
+Gradient Boosting Reference,City_Irvine,0.0,958
+Gradient Boosting Reference,City_Inglewood,0.0,959
+Gradient Boosting Reference,City_Helendale,0.0,960
+Gradient Boosting Reference,City_Hinkley,0.0,961
+Gradient Boosting Reference,City_Hemet,0.0,962
+Gradient Boosting Reference,City_Herald,0.0,963
+Gradient Boosting Reference,City_Hercules,0.0,964
+Gradient Boosting Reference,City_Hermosa Beach,0.0,965
+Gradient Boosting Reference,City_Hesperia,0.0,966
+Gradient Boosting Reference,City_Hidden Hills,0.0,967
+Gradient Boosting Reference,City_Hidden Valley Lake,0.0,968
+Gradient Boosting Reference,City_Highgrove,0.0,969
+Gradient Boosting Reference,City_Highland,0.0,970
+Gradient Boosting Reference,City_Highland Park,0.0,971
+Gradient Boosting Reference,City_Hillsborough,0.0,972
+Gradient Boosting Reference,City_Hilmar,0.0,973
+Gradient Boosting Reference,City_Hollister,0.0,974
+Gradient Boosting Reference,City_Indio,0.0,975
+Gradient Boosting Reference,City_Hollywood Hills,0.0,976
+Gradient Boosting Reference,City_Hollywood Hills East,0.0,977
+Gradient Boosting Reference,City_Homeland,0.0,978
+Gradient Boosting Reference,City_Hornbrook,0.0,979
+Gradient Boosting Reference,City_Hughson,0.0,980
+Gradient Boosting Reference,City_Huntington Beach,0.0,981
+Gradient Boosting Reference,City_Huntington Park,0.0,982
+Gradient Boosting Reference,City_Huron,0.0,983
+Gradient Boosting Reference,City_Idyllwild,0.0,984
+Gradient Boosting Reference,City_Imperial,0.0,985
+Gradient Boosting Reference,City_Imperial Beach,0.0,986
+Gradient Boosting Reference,City_Indian Wells,0.0,987
+Gradient Boosting Reference,City_Mill Valley,0.0,988
+XGBoost,CountyOrParish_San Bernardino,0.1140805035829544,1
+XGBoost,City_Chula Vista,0.09029889851808548,2
+XGBoost,LivingAreaPerBathroom,0.0760798454284668,3
+XGBoost,PropertyAge,0.07368014752864838,4
+XGBoost,OutdoorSpaceApprox,0.05999607965350151,5
+XGBoost,LivingArea,0.0548105351626873,6
+XGBoost,LivingAreaPerBedroom,0.05359071493148804,7
+XGBoost,LogLivingArea,0.05335674434900284,8
+XGBoost,ListPricePerSquareFoot,0.04930197075009346,9
+XGBoost,LogLotSize,0.04745166748762131,10
+XGBoost,LotSizeSquareFeet,0.04399349167943001,11
+XGBoost,PropertyAgeSquared,0.04306454211473465,12
+XGBoost,LogListPrice,0.04227862134575844,13
+XGBoost,ListPrice,0.039069391787052155,14
+XGBoost,LotToLivingAreaRatio,0.02768726646900177,15
+XGBoost,BedroomsTotal,0.025624427944421768,16
+XGBoost,BedBathRatio,0.021161925047636032,17
+XGBoost,City_Ramona,0.02062736637890339,18
+XGBoost,City_Victorville,0.017346877604722977,19
+XGBoost,BathroomsTotalInteger,0.012279104441404343,20
+XGBoost,TotalRoomsApprox,0.011235315352678299,21
+XGBoost,CountyOrParish_San Diego,0.008210294879972935,22
+XGBoost,City_Lake Elsinore,0.007413641549646854,23
+XGBoost,IsOlderProperty,0.0014110490446910262,24
+XGBoost,City_Hesperia,0.0008419512887485325,25
+XGBoost,IsRecentProperty,0.0007169818272814155,26
+XGBoost,City_Beverly Hills,0.0005030271131545305,27
+XGBoost,City_Spring Valley,0.0004973529721610248,28
+XGBoost,City_Moorpark,0.0004812269180547446,29
+XGBoost,CountyOrParish_Ventura,0.00046033281250856817,30
+XGBoost,CountyOrParish_Riverside,0.00039006516453810036,31
+XGBoost,City_Los Angeles,0.00023414769384544343,32
+XGBoost,CountyOrParish_Los Angeles,0.00023131303896661848,33
+XGBoost,City_San Miguel,0.00021764203847851604,34
+XGBoost,City_Newport Coast,0.00015613825235050172,35
+XGBoost,City_Hacienda Heights,0.00012335105566307902,36
+XGBoost,City_Calimesa,0.00011645557242445648,37
+XGBoost,City_Fountain Valley,8.942380372900516e-05,38
+XGBoost,City_Palm Desert,8.361158688785508e-05,39
+XGBoost,City_Lucerne Valley,8.06012685643509e-05,40
+XGBoost,City_Rancho Santa Fe,7.858113531256095e-05,41
+XGBoost,City_Rancho Mission Viejo,7.719709537923336e-05,42
+XGBoost,City_La Mesa,6.375977682182565e-05,43
+XGBoost,City_Newport Beach,5.259279714664444e-05,44
+XGBoost,City_Piedmont,4.642886415240355e-05,45
+XGBoost,CountyOrParish_San Mateo,4.578536027111113e-05,46
+XGBoost,City_Los Altos,4.514995089266449e-05,47
+XGBoost,City_Mariposa,3.851735527860001e-05,48
+XGBoost,City_Adelanto,3.450517760938965e-05,49
+XGBoost,City_Berkeley,3.339058821438812e-05,50
+XGBoost,City_Carlsbad,3.315888898214325e-05,51
+XGBoost,CountyOrParish_Santa Clara,3.206642941222526e-05,52
+XGBoost,City_Oakland,2.5368148271809332e-05,53
+XGBoost,City_Corona Del Mar,2.051810770353768e-05,54
+XGBoost,City_Tarzana,1.7572458091308363e-05,55
+XGBoost,City_La Jolla,1.7290827599936165e-05,56
+XGBoost,CountyOrParish_Orange,1.6876345398486592e-05,57
+XGBoost,CountyOrParish_Monterey,1.0040620509244036e-05,58
+XGBoost,CountyOrParish_Contra Costa,9.640508324082475e-06,59
+XGBoost,City_La Quinta,7.0115879680088256e-06,60
+XGBoost,City_Coronado,6.353237495204667e-06,61
+XGBoost,CountyOrParish_Santa Barbara,4.904341494693654e-06,62
+XGBoost,City_San Diego,4.582324436341878e-06,63
+XGBoost,City_Saratoga,2.48208743869327e-06,64
+XGBoost,City_Indian Wells,2.3459851945517585e-06,65
+XGBoost,City_Rancho Santa Margarita,0.0,66
+XGBoost,City_Redlands,0.0,67
+XGBoost,City_Quincy,0.0,68
+XGBoost,City_Rainbow,0.0,69
+XGBoost,City_Montecito Heights,0.0,70
+XGBoost,City_Rancho Mirage,0.0,71
+XGBoost,City_Redondo Beach,0.0,72
+XGBoost,City_Ranchita,0.0,73
+XGBoost,City_Rancho Cascades,0.0,74
+XGBoost,City_Rancho Cucamonga,0.0,75
+XGBoost,City_Redding,0.0,76
+XGBoost,City_Red Bluff,0.0,77
+XGBoost,City_Rancho Penasquitos,0.0,78
+XGBoost,City_Raymond,0.0,79
+XGBoost,City_Rancho Cordova,0.0,80
+XGBoost,City_Rancho Dominguez,0.0,81
+XGBoost,City_Rancho Palos Verdes,0.0,82
+XGBoost,City_Potter Valley,0.0,83
+XGBoost,City_Quartz Hill,0.0,84
+XGBoost,City_Point Arena,0.0,85
+XGBoost,City_Piru,0.0,86
+XGBoost,City_Pismo Beach,0.0,87
+XGBoost,City_Pittsburg,0.0,88
+XGBoost,City_Placentia,0.0,89
+XGBoost,City_Placerville,0.0,90
+XGBoost,City_Planada,0.0,91
+XGBoost,City_Playa Del Rey,0.0,92
+XGBoost,City_Pleasant Hill,0.0,93
+XGBoost,City_Pleasanton,0.0,94
+XGBoost,City_Plumas Lake,0.0,95
+XGBoost,City_Point Loma,0.0,96
+XGBoost,City_Quail Valley,0.0,97
+XGBoost,City_Pomona,0.0,98
+XGBoost,City_Port Costa,0.0,99
+XGBoost,City_Port Hueneme,0.0,100
+XGBoost,City_Porter Ranch,0.0,101
+XGBoost,City_Porterville,0.0,102
+XGBoost,City_Portola Valley,0.0,103
+XGBoost,City_Potrero,0.0,104
+XGBoost,City_Redwood Valley,0.0,105
+XGBoost,City_Poway,0.0,106
+XGBoost,City_Prunedale,0.0,107
+XGBoost,City_Redwood City,0.0,108
+XGBoost,City_Richvale,0.0,109
+XGBoost,City_Reedley,0.0,110
+XGBoost,City_Rescue,0.0,111
+XGBoost,City_Salida,0.0,112
+XGBoost,City_Salinas,0.0,113
+XGBoost,City_Salton City,0.0,114
+XGBoost,City_Salton Sea Beach,0.0,115
+XGBoost,City_San Andreas,0.0,116
+XGBoost,City_San Anselmo,0.0,117
+XGBoost,City_San Bernardino,0.0,118
+XGBoost,City_San Bruno,0.0,119
+XGBoost,City_San Carlos,0.0,120
+XGBoost,City_San Clemente,0.0,121
+XGBoost,City_San Dimas,0.0,122
+XGBoost,City_San Fernando,0.0,123
+XGBoost,City_San Francisco,0.0,124
+XGBoost,City_San Gabriel,0.0,125
+XGBoost,City_San Jacinto,0.0,126
+XGBoost,City_San Jose,0.0,127
+XGBoost,City_San Juan Bautista,0.0,128
+XGBoost,City_San Juan Capistrano,0.0,129
+XGBoost,City_San Leandro,0.0,130
+XGBoost,City_San Lorenzo,0.0,131
+XGBoost,City_San Luis Obispo,0.0,132
+XGBoost,City_San Marcos,0.0,133
+XGBoost,City_San Marino,0.0,134
+XGBoost,City_San Martin,0.0,135
+XGBoost,City_San Mateo,0.0,136
+XGBoost,City_Sacramento,0.0,137
+XGBoost,City_Running Springs,0.0,138
+XGBoost,City_Royal Oaks,0.0,139
+XGBoost,City_Riverbank,0.0,140
+XGBoost,City_Reseda,0.0,141
+XGBoost,City_Reseda Ranch,0.0,142
+XGBoost,City_Montecito,0.0,143
+XGBoost,City_Rialto,0.0,144
+XGBoost,City_Richmond,0.0,145
+XGBoost,City_Pioneer,0.0,146
+XGBoost,City_Ridgecrest,0.0,147
+XGBoost,City_Rimforest,0.0,148
+XGBoost,City_Rio Linda,0.0,149
+XGBoost,City_Rio Vista,0.0,150
+XGBoost,City_Ripon,0.0,151
+XGBoost,City_Riverdale,0.0,152
+XGBoost,City_Rowland Heights,0.0,153
+XGBoost,City_Riverside,0.0,154
+XGBoost,City_Rocklin,0.0,155
+XGBoost,City_Rodeo,0.0,156
+XGBoost,City_Montebello,0.0,157
+XGBoost,City_Rohnert Park,0.0,158
+XGBoost,City_Rolling Hills,0.0,159
+XGBoost,City_Rolling Hills Estates,0.0,160
+XGBoost,City_Rosamond,0.0,161
+XGBoost,City_Rosemead,0.0,162
+XGBoost,City_Roseville,0.0,163
+XGBoost,City_Rossmoor,0.0,164
+XGBoost,City_Pioneertown,0.0,165
+XGBoost,City_Moss Landing,0.0,166
+XGBoost,City_Pinon Hills,0.0,167
+XGBoost,City_Northridge,0.0,168
+XGBoost,City_North Edwards,0.0,169
+XGBoost,City_North Fork,0.0,170
+XGBoost,City_Moreno Valley,0.0,171
+XGBoost,City_North Highlands,0.0,172
+XGBoost,City_North Hills,0.0,173
+XGBoost,City_North Hollywood,0.0,174
+XGBoost,City_North Palm Springs,0.0,175
+XGBoost,City_North Richmond,0.0,176
+XGBoost,City_North San Juan,0.0,177
+XGBoost,City_North Tustin,0.0,178
+XGBoost,City_Moraga,0.0,179
+XGBoost,City_Norwalk,0.0,180
+XGBoost,City_Ojai,0.0,181
+XGBoost,City_Novato,0.0,182
+XGBoost,City_Nuevo,0.0,183
+XGBoost,City_O'Neals,0.0,184
+XGBoost,City_Oak Glen,0.0,185
+XGBoost,City_Oak Hills,0.0,186
+XGBoost,City_Oak Park,0.0,187
+XGBoost,City_Oak View,0.0,188
+XGBoost,City_Oakdale,0.0,189
+XGBoost,City_Oakhurst,0.0,190
+XGBoost,City_Oakley,0.0,191
+XGBoost,City_Oceano,0.0,192
+XGBoost,City_Norco,0.0,193
+XGBoost,City_Nipomo,0.0,194
+XGBoost,City_Nice,0.0,195
+XGBoost,City_Morgan Hill,0.0,196
+XGBoost,City_Mount Shasta,0.0,197
+XGBoost,City_Mountain Center,0.0,198
+XGBoost,City_Mountain House,0.0,199
+XGBoost,City_Mountain Mesa,0.0,200
+XGBoost,City_Moss Beach,0.0,201
+XGBoost,City_Mountain View,0.0,202
+XGBoost,City_Mt Baldy,0.0,203
+XGBoost,City_Murphys,0.0,204
+XGBoost,City_Morro Bay,0.0,205
+XGBoost,City_Murrieta,0.0,206
+XGBoost,City_Myers Flat,0.0,207
+XGBoost,City_Napa,0.0,208
+XGBoost,City_National City,0.0,209
+XGBoost,City_Navarro,0.0,210
+XGBoost,City_Needles,0.0,211
+XGBoost,City_Nelson,0.0,212
+XGBoost,City_New Cuyama,0.0,213
+XGBoost,City_Newark,0.0,214
+XGBoost,City_Newberry Springs,0.0,215
+XGBoost,City_Newbury Park,0.0,216
+XGBoost,City_Newhall,0.0,217
+XGBoost,City_Morongo Valley,0.0,218
+XGBoost,City_Newman,0.0,219
+XGBoost,City_Oceanside,0.0,220
+XGBoost,City_Olancha,0.0,221
+XGBoost,City_Pinole,0.0,222
+XGBoost,City_Pearblossom,0.0,223
+XGBoost,City_Panorama City,0.0,224
+XGBoost,City_Paradise,0.0,225
+XGBoost,City_Paradise Hills,0.0,226
+XGBoost,City_Paramount,0.0,227
+XGBoost,City_Parlier,0.0,228
+XGBoost,City_Monterey Park,0.0,229
+XGBoost,City_Pasadena,0.0,230
+XGBoost,City_Monterey,0.0,231
+XGBoost,City_Paso Robles,0.0,232
+XGBoost,City_Patterson,0.0,233
+XGBoost,City_Pauma Valley,0.0,234
+XGBoost,City_Pebble Beach,0.0,235
+XGBoost,City_Olivehurst,0.0,236
+XGBoost,City_Perris,0.0,237
+XGBoost,City_Pescadero,0.0,238
+XGBoost,City_Petaluma,0.0,239
+XGBoost,City_Phelan,0.0,240
+XGBoost,City_Phillips Ranch,0.0,241
+XGBoost,City_Philo,0.0,242
+XGBoost,City_Pico Rivera,0.0,243
+XGBoost,City_Mount Hermon,0.0,244
+XGBoost,City_Pilot Hill,0.0,245
+XGBoost,City_Pine Mountain Club,0.0,246
+XGBoost,City_Pine Valley,0.0,247
+XGBoost,City_Palos Verdes Peninsula,0.0,248
+XGBoost,City_Palos Verdes Estates,0.0,249
+XGBoost,City_Palomar Mountain,0.0,250
+XGBoost,City_Palo Cedro,0.0,251
+XGBoost,City_Ontario,0.0,252
+XGBoost,City_Orange,0.0,253
+XGBoost,City_Orangevale,0.0,254
+XGBoost,City_Orinda,0.0,255
+XGBoost,City_Orland,0.0,256
+XGBoost,City_Oro Grande,0.0,257
+XGBoost,City_Orosi,0.0,258
+XGBoost,City_Oroville,0.0,259
+XGBoost,City_Ortega Mountain,0.0,260
+XGBoost,City_Otay Mesa,0.0,261
+XGBoost,City_Other,0.0,262
+XGBoost,City_Oxnard,0.0,263
+XGBoost,City_Pacheco,0.0,264
+XGBoost,City_Pacific Grove,0.0,265
+XGBoost,City_Montrose,0.0,266
+XGBoost,City_Pacific Palisades,0.0,267
+XGBoost,City_Pacifica,0.0,268
+XGBoost,City_Pacoima,0.0,269
+XGBoost,City_Paicines,0.0,270
+XGBoost,City_Palermo,0.0,271
+XGBoost,City_Palm Springs,0.0,272
+XGBoost,City_Palmdale,0.0,273
+XGBoost,City_Palo Alto,0.0,274
+XGBoost,City_Ahwahnee,0.0,275
+XGBoost,City_Santa Monica,0.0,276
+XGBoost,City_San Pablo,0.0,277
+XGBoost,City_Willows,0.0,278
+XGBoost,City_West Toluca Lake,0.0,279
+XGBoost,City_Westchester,0.0,280
+XGBoost,City_Westlake Village,0.0,281
+XGBoost,City_Westminster,0.0,282
+XGBoost,City_Westport,0.0,283
+XGBoost,City_Westwood,0.0,284
+XGBoost,City_Wheatland,0.0,285
+XGBoost,City_Whitewater,0.0,286
+XGBoost,City_Whittier,0.0,287
+XGBoost,City_Wildomar,0.0,288
+XGBoost,City_Williams,0.0,289
+XGBoost,City_Willits,0.0,290
+XGBoost,City_Wilmington,0.0,291
+XGBoost,City_Val Verde,0.0,292
+XGBoost,City_Wilton,0.0,293
+XGBoost,City_Winchester,0.0,294
+XGBoost,City_Windsor Hills,0.0,295
+XGBoost,City_Winnetka,0.0,296
+XGBoost,City_Winton,0.0,297
+XGBoost,City_Wishon,0.0,298
+XGBoost,City_Wofford Heights,0.0,299
+XGBoost,City_Woodbridge,0.0,300
+XGBoost,City_Woodcrest,0.0,301
+XGBoost,City_Woodland,0.0,302
+XGBoost,City_Woodland Hills,0.0,303
+XGBoost,City_Woodside,0.0,304
+XGBoost,City_West Sacramento,0.0,305
+XGBoost,City_West Point,0.0,306
+XGBoost,City_West Los Angeles,0.0,307
+XGBoost,City_West Hollywood,0.0,308
+XGBoost,City_Vallejo,0.0,309
+XGBoost,City_Valley Center,0.0,310
+XGBoost,City_Valley Glen,0.0,311
+XGBoost,City_Valley Springs,0.0,312
+XGBoost,City_Valley Village,0.0,313
+XGBoost,City_Van Nuys,0.0,314
+XGBoost,City_Venice,0.0,315
+XGBoost,City_Ventura,0.0,316
+XGBoost,City_View Park,0.0,317
+XGBoost,City_Villa Park,0.0,318
+XGBoost,City_Vina,0.0,319
+XGBoost,City_Visalia,0.0,320
+XGBoost,City_Vista,0.0,321
+XGBoost,City_Walnut,0.0,322
+XGBoost,City_Walnut Creek,0.0,323
+XGBoost,City_Walnut Grove,0.0,324
+XGBoost,City_Warner Springs,0.0,325
+XGBoost,City_Wasco,0.0,326
+XGBoost,City_Waterford,0.0,327
+XGBoost,City_Watsonville,0.0,328
+XGBoost,City_Weaverville,0.0,329
+XGBoost,City_Weed,0.0,330
+XGBoost,City_Weldon,0.0,331
+XGBoost,City_West Covina,0.0,332
+XGBoost,City_West Hills,0.0,333
+XGBoost,City_Wrightwood,0.0,334
+XGBoost,City_Yermo,0.0,335
+XGBoost,City_Yorba Linda,0.0,336
+XGBoost,CountyOrParish_Nevada,0.0,337
+XGBoost,CountyOrParish_Other State,0.0,338
+XGBoost,CountyOrParish_Placer,0.0,339
+XGBoost,CountyOrParish_Plumas,0.0,340
+XGBoost,CountyOrParish_Sacramento,0.0,341
+XGBoost,CountyOrParish_San Benito,0.0,342
+XGBoost,City_Agoura Hills,0.0,343
+XGBoost,CountyOrParish_San Francisco,0.0,344
+XGBoost,CountyOrParish_San Joaquin,0.0,345
+XGBoost,CountyOrParish_San Luis Obispo,0.0,346
+XGBoost,CountyOrParish_Santa Cruz,0.0,347
+XGBoost,CountyOrParish_Shasta,0.0,348
+XGBoost,CountyOrParish_Siskiyou,0.0,349
+XGBoost,CountyOrParish_Solano,0.0,350
+XGBoost,CountyOrParish_Sonoma,0.0,351
+XGBoost,CountyOrParish_Stanislaus,0.0,352
+XGBoost,CountyOrParish_Sutter,0.0,353
+XGBoost,CountyOrParish_Tehama,0.0,354
+XGBoost,CountyOrParish_Trinity,0.0,355
+XGBoost,CountyOrParish_Tulare,0.0,356
+XGBoost,CountyOrParish_Tuolumne,0.0,357
+XGBoost,CountyOrParish_Yolo,0.0,358
+XGBoost,CountyOrParish_Yuba,0.0,359
+XGBoost,City_Acton,0.0,360
+XGBoost,City_Acampo,0.0,361
+XGBoost,IsNewProperty,0.0,362
+XGBoost,CountyOrParish_Other,0.0,363
+XGBoost,CountyOrParish_Napa,0.0,364
+XGBoost,City_Yosemite,0.0,365
+XGBoost,CountyOrParish_Mono,0.0,366
+XGBoost,City_Yreka,0.0,367
+XGBoost,City_Yuba City,0.0,368
+XGBoost,City_Yucaipa,0.0,369
+XGBoost,City_Yucca Valley,0.0,370
+XGBoost,CountyOrParish_Amador,0.0,371
+XGBoost,CountyOrParish_Butte,0.0,372
+XGBoost,CountyOrParish_Calaveras,0.0,373
+XGBoost,CountyOrParish_Colusa,0.0,374
+XGBoost,CountyOrParish_El Dorado,0.0,375
+XGBoost,CountyOrParish_Foreign Country,0.0,376
+XGBoost,CountyOrParish_Fresno,0.0,377
+XGBoost,CountyOrParish_Glenn,0.0,378
+XGBoost,CountyOrParish_Humboldt,0.0,379
+XGBoost,CountyOrParish_Imperial,0.0,380
+XGBoost,CountyOrParish_Inyo,0.0,381
+XGBoost,CountyOrParish_Kern,0.0,382
+XGBoost,CountyOrParish_Kings,0.0,383
+XGBoost,CountyOrParish_Lake,0.0,384
+XGBoost,CountyOrParish_Lassen,0.0,385
+XGBoost,CountyOrParish_Madera,0.0,386
+XGBoost,CountyOrParish_Marin,0.0,387
+XGBoost,CountyOrParish_Mariposa,0.0,388
+XGBoost,CountyOrParish_Mendocino,0.0,389
+XGBoost,CountyOrParish_Merced,0.0,390
+XGBoost,CountyOrParish_Modoc,0.0,391
+XGBoost,City_Valencia,0.0,392
+XGBoost,City_Vacaville,0.0,393
+XGBoost,City_San Pedro,0.0,394
+XGBoost,City_Sky Valley,0.0,395
+XGBoost,City_Shafter,0.0,396
+XGBoost,City_Shandon,0.0,397
+XGBoost,City_Shasta Lake,0.0,398
+XGBoost,City_Sherman Oaks,0.0,399
+XGBoost,City_Sherwood Forest,0.0,400
+XGBoost,City_Shingletown,0.0,401
+XGBoost,City_Sierra Madre,0.0,402
+XGBoost,City_Signal Hill,0.0,403
+XGBoost,City_Silver Lake,0.0,404
+XGBoost,City_Silverado,0.0,405
+XGBoost,City_Silverado Canyon,0.0,406
+XGBoost,City_Simi Valley,0.0,407
+XGBoost,City_Soda Springs,0.0,408
+XGBoost,City_Upper Lake,0.0,409
+XGBoost,City_Solana Beach,0.0,410
+XGBoost,City_Soledad,0.0,411
+XGBoost,City_Solvang,0.0,412
+XGBoost,City_Somis,0.0,413
+XGBoost,City_Sonoma,0.0,414
+XGBoost,City_Sonora,0.0,415
+XGBoost,City_Soquel,0.0,416
+XGBoost,City_Soulsbyville,0.0,417
+XGBoost,City_South Dos Palos,0.0,418
+XGBoost,City_South El Monte,0.0,419
+XGBoost,City_South Gate,0.0,420
+XGBoost,City_South Lake Tahoe,0.0,421
+XGBoost,City_Shadow Hills,0.0,422
+XGBoost,City_Selma,0.0,423
+XGBoost,City_Sebastopol,0.0,424
+XGBoost,City_Seaside,0.0,425
+XGBoost,City_San Rafael,0.0,426
+XGBoost,City_San Ramon,0.0,427
+XGBoost,City_San Simeon,0.0,428
+XGBoost,City_San Ysidro,0.0,429
+XGBoost,City_Sanger,0.0,430
+XGBoost,City_Santa Ana,0.0,431
+XGBoost,City_Santa Barbara,0.0,432
+XGBoost,City_Santa Clara,0.0,433
+XGBoost,City_Santa Clarita,0.0,434
+XGBoost,City_Santa Cruz,0.0,435
+XGBoost,City_Santa Fe Springs,0.0,436
+XGBoost,City_Santa Margarita,0.0,437
+XGBoost,City_Santa Maria,0.0,438
+XGBoost,City_Monte Rio,0.0,439
+XGBoost,City_Santa Nella,0.0,440
+XGBoost,City_Santa Paula,0.0,441
+XGBoost,City_Santa Rosa,0.0,442
+XGBoost,City_Santa Ynez,0.0,443
+XGBoost,City_Santa Ysabel,0.0,444
+XGBoost,City_Santee,0.0,445
+XGBoost,City_Saugus,0.0,446
+XGBoost,City_Sausalito,0.0,447
+XGBoost,City_Scotts Valley,0.0,448
+XGBoost,City_Scripps Miramar,0.0,449
+XGBoost,City_Seal Beach,0.0,450
+XGBoost,City_South Pasadena,0.0,451
+XGBoost,City_South San Francisco,0.0,452
+XGBoost,City_Spreckels,0.0,453
+XGBoost,City_Thermal,0.0,454
+XGBoost,City_Thousand Palms,0.0,455
+XGBoost,City_Tierrasanta,0.0,456
+XGBoost,City_Tollhouse,0.0,457
+XGBoost,City_Toluca Lake,0.0,458
+XGBoost,City_Topanga,0.0,459
+XGBoost,City_Torrance,0.0,460
+XGBoost,City_Trabuco Canyon,0.0,461
+XGBoost,City_Tracy,0.0,462
+XGBoost,City_Tres Pinos,0.0,463
+XGBoost,City_Trinity Center,0.0,464
+XGBoost,City_Trona,0.0,465
+XGBoost,City_Tujunga,0.0,466
+XGBoost,City_Tulare,0.0,467
+XGBoost,City_Tuolumne,0.0,468
+XGBoost,City_Turlock,0.0,469
+XGBoost,City_Tustin,0.0,470
+XGBoost,City_Twain Harte,0.0,471
+XGBoost,City_Twentynine Palms,0.0,472
+XGBoost,City_Twin Peaks,0.0,473
+XGBoost,City_Ukiah,0.0,474
+XGBoost,City_Unincorporated,0.0,475
+XGBoost,City_Union City,0.0,476
+XGBoost,City_University City,0.0,477
+XGBoost,City_Unknown,0.0,478
+XGBoost,City_Upland,0.0,479
+XGBoost,City_Thousand Oaks,0.0,480
+XGBoost,City_Terra Bella,0.0,481
+XGBoost,City_Springville,0.0,482
+XGBoost,City_Templeton,0.0,483
+XGBoost,City_Squaw Valley,0.0,484
+XGBoost,City_Stanton,0.0,485
+XGBoost,City_Stevenson Ranch,0.0,486
+XGBoost,City_Stevinson,0.0,487
+XGBoost,City_Stockton,0.0,488
+XGBoost,City_Stonyford,0.0,489
+XGBoost,City_Strawberry,0.0,490
+XGBoost,City_Studio City,0.0,491
+XGBoost,City_Sugarloaf,0.0,492
+XGBoost,City_Suisun City,0.0,493
+XGBoost,City_Summerland,0.0,494
+XGBoost,City_Sun City,0.0,495
+XGBoost,City_Sun Valley,0.0,496
+XGBoost,City_Sunland,0.0,497
+XGBoost,City_Sunnyvale,0.0,498
+XGBoost,City_Sunol,0.0,499
+XGBoost,City_Sunset Beach,0.0,500
+XGBoost,City_Surfside,0.0,501
+XGBoost,City_Susanville,0.0,502
+XGBoost,City_Sylmar,0.0,503
+XGBoost,City_Taft,0.0,504
+XGBoost,City_Tehachapi,0.0,505
+XGBoost,City_Temecula,0.0,506
+XGBoost,City_Temescal Valley,0.0,507
+XGBoost,City_Temple City,0.0,508
+XGBoost,City_Monte Sereno,0.0,509
+XGBoost,City_Mission Hills,0.0,510
+XGBoost,City_Montclair,0.0,511
+XGBoost,City_Corning,0.0,512
+XGBoost,City_Coachella,0.0,513
+XGBoost,City_Coalinga,0.0,514
+XGBoost,City_Coarsegold,0.0,515
+XGBoost,City_Cobb,0.0,516
+XGBoost,City_Cold Springs,0.0,517
+XGBoost,City_Colton,0.0,518
+XGBoost,City_Columbia,0.0,519
+XGBoost,City_Commerce,0.0,520
+XGBoost,City_Compton,0.0,521
+XGBoost,City_Concord,0.0,522
+XGBoost,City_Copperopolis,0.0,523
+XGBoost,City_Corcoran,0.0,524
+XGBoost,City_Corona,0.0,525
+XGBoost,City_Clipper Mills,0.0,526
+XGBoost,City_Corralitos,0.0,527
+XGBoost,City_Costa Mesa,0.0,528
+XGBoost,City_Coto de Caza,0.0,529
+XGBoost,City_Cottonwood,0.0,530
+XGBoost,City_Covelo,0.0,531
+XGBoost,City_Covina,0.0,532
+XGBoost,City_Cowan Heights,0.0,533
+XGBoost,City_Crestline,0.0,534
+XGBoost,City_Creston,0.0,535
+XGBoost,City_Crockett,0.0,536
+XGBoost,City_Cudahy,0.0,537
+XGBoost,City_Culver City,0.0,538
+XGBoost,City_Clovis,0.0,539
+XGBoost,City_Clio,0.0,540
+XGBoost,City_Cutler,0.0,541
+XGBoost,City_Cerritos,0.0,542
+XGBoost,City_Carson,0.0,543
+XGBoost,City_Caruthers,0.0,544
+XGBoost,City_Castaic,0.0,545
+XGBoost,City_Castro Valley,0.0,546
+XGBoost,City_Castroville,0.0,547
+XGBoost,City_Cathedral City,0.0,548
+XGBoost,City_Catheys Valley,0.0,549
+XGBoost,City_Cayucos,0.0,550
+XGBoost,City_Cazadero,0.0,551
+XGBoost,City_Cedar Glen,0.0,552
+XGBoost,City_Cedarpines Park,0.0,553
+XGBoost,City_Ceres,0.0,554
+XGBoost,City_Chatsworth,0.0,555
+XGBoost,City_Clearlake Oaks,0.0,556
+XGBoost,City_Cherry Valley,0.0,557
+XGBoost,City_Chico,0.0,558
+XGBoost,City_Chino,0.0,559
+XGBoost,City_Chino Hills,0.0,560
+XGBoost,City_Chowchilla,0.0,561
+XGBoost,City_Aguanga,0.0,562
+XGBoost,City_Citrus Heights,0.0,563
+XGBoost,City_City Terrace,0.0,564
+XGBoost,City_Clairemont Mesa,0.0,565
+XGBoost,City_Claremont,0.0,566
+XGBoost,City_Clayton,0.0,567
+XGBoost,City_Clearlake,0.0,568
+XGBoost,City_Cupertino,0.0,569
+XGBoost,City_Cypress,0.0,570
+XGBoost,City_Carmichael,0.0,571
+XGBoost,City_El Monte,0.0,572
+XGBoost,City_Eagle Rock,0.0,573
+XGBoost,City_East Los Angeles,0.0,574
+XGBoost,City_East Palo Alto,0.0,575
+XGBoost,City_Eastvale,0.0,576
+XGBoost,City_Echo Park,0.0,577
+XGBoost,City_Edwards,0.0,578
+XGBoost,City_El Cajon,0.0,579
+XGBoost,City_El Centro,0.0,580
+XGBoost,City_El Cerrito,0.0,581
+XGBoost,City_El Dorado Hills,0.0,582
+XGBoost,City_El Granada,0.0,583
+XGBoost,City_El Mirage,0.0,584
+XGBoost,City_El Portal,0.0,585
+XGBoost,City_Dunsmuir,0.0,586
+XGBoost,City_El Segundo,0.0,587
+XGBoost,City_El Sereno,0.0,588
+XGBoost,City_El Sobrante,0.0,589
+XGBoost,City_Elk,0.0,590
+XGBoost,City_Elk Creek,0.0,591
+XGBoost,City_Elk Grove,0.0,592
+XGBoost,City_Emeryville,0.0,593
+XGBoost,City_Empire,0.0,594
+XGBoost,City_Encanto,0.0,595
+XGBoost,City_Encinitas,0.0,596
+XGBoost,City_Encino,0.0,597
+XGBoost,City_Escalon,0.0,598
+XGBoost,City_Durham,0.0,599
+XGBoost,City_Dunnigan,0.0,600
+XGBoost,City_Cypress Park,0.0,601
+XGBoost,City_Desert Hot Springs,0.0,602
+XGBoost,City_Daly City,0.0,603
+XGBoost,City_Dana Point,0.0,604
+XGBoost,City_Danville,0.0,605
+XGBoost,City_Davis,0.0,606
+XGBoost,City_Del Mar,0.0,607
+XGBoost,City_Del Rey,0.0,608
+XGBoost,City_Del Rey Oaks,0.0,609
+XGBoost,City_Delano,0.0,610
+XGBoost,City_Delhi,0.0,611
+XGBoost,City_Denair,0.0,612
+XGBoost,City_Descanso,0.0,613
+XGBoost,City_Desert Center,0.0,614
+XGBoost,City_Devore,0.0,615
+XGBoost,City_Dulzura,0.0,616
+XGBoost,City_Diablo,0.0,617
+XGBoost,City_Diamond Bar,0.0,618
+XGBoost,City_Dillon Beach,0.0,619
+XGBoost,City_Dinuba,0.0,620
+XGBoost,City_Discovery Bay,0.0,621
+XGBoost,City_Dixon,0.0,622
+XGBoost,City_Dobbins,0.0,623
+XGBoost,City_Dorrington,0.0,624
+XGBoost,City_Dos Palos,0.0,625
+XGBoost,City_Downey,0.0,626
+XGBoost,City_Duarte,0.0,627
+XGBoost,City_Dublin,0.0,628
+XGBoost,City_Carpinteria,0.0,629
+XGBoost,City_Carmel Valley,0.0,630
+XGBoost,City_Montara,0.0,631
+XGBoost,City_Azusa,0.0,632
+XGBoost,City_Artesia,0.0,633
+XGBoost,City_Artois,0.0,634
+XGBoost,City_Arvin,0.0,635
+XGBoost,City_Atascadero,0.0,636
+XGBoost,City_Atherton,0.0,637
+XGBoost,City_Atwater,0.0,638
+XGBoost,City_Atwater Village,0.0,639
+XGBoost,City_Auberry,0.0,640
+XGBoost,City_Auburn,0.0,641
+XGBoost,City_Avalon,0.0,642
+XGBoost,City_Avenal,0.0,643
+XGBoost,City_Avila Beach,0.0,644
+XGBoost,City_Bakersfield,0.0,645
+XGBoost,City_Arrowbear,0.0,646
+XGBoost,City_Baldwin Hills,0.0,647
+XGBoost,City_Baldwin Park,0.0,648
+XGBoost,City_Bangor,0.0,649
+XGBoost,City_Banning,0.0,650
+XGBoost,City_Barstow,0.0,651
+XGBoost,City_Bass Lake,0.0,652
+XGBoost,City_Bay Point,0.0,653
+XGBoost,City_Beaumont,0.0,654
+XGBoost,City_Bel Air,0.0,655
+XGBoost,City_Bell,0.0,656
+XGBoost,City_Bell Canyon,0.0,657
+XGBoost,City_Bell Gardens,0.0,658
+XGBoost,City_Arroyo Grande,0.0,659
+XGBoost,City_Aromas,0.0,660
+XGBoost,City_Belmont,0.0,661
+XGBoost,City_Anaheim,0.0,662
+XGBoost,City_Alamo,0.0,663
+XGBoost,City_Albany,0.0,664
+XGBoost,City_Albion,0.0,665
+XGBoost,City_Alhambra,0.0,666
+XGBoost,City_Aliso Viejo,0.0,667
+XGBoost,City_Almanor,0.0,668
+XGBoost,City_Alpine,0.0,669
+XGBoost,City_Alta Loma,0.0,670
+XGBoost,City_Altadena,0.0,671
+XGBoost,City_Alturas,0.0,672
+XGBoost,City_Alviso,0.0,673
+XGBoost,City_American Canyon,0.0,674
+XGBoost,City_Anaheim Hills,0.0,675
+XGBoost,City_Arnold,0.0,676
+XGBoost,City_Anderson,0.0,677
+XGBoost,City_Angels Camp,0.0,678
+XGBoost,City_Angelus Oaks,0.0,679
+XGBoost,City_Angwin,0.0,680
+XGBoost,City_Antelope,0.0,681
+XGBoost,City_Antioch,0.0,682
+XGBoost,City_Anza,0.0,683
+XGBoost,City_Apple Valley,0.0,684
+XGBoost,City_Aptos,0.0,685
+XGBoost,City_Arbuckle,0.0,686
+XGBoost,City_Arcadia,0.0,687
+XGBoost,City_Arleta,0.0,688
+XGBoost,City_Bellflower,0.0,689
+XGBoost,City_Ben Lomond,0.0,690
+XGBoost,City_Carmel,0.0,691
+XGBoost,City_Calexico,0.0,692
+XGBoost,City_Brownsville,0.0,693
+XGBoost,City_Buellton,0.0,694
+XGBoost,City_Buena Park,0.0,695
+XGBoost,City_Bullhead City,0.0,696
+XGBoost,City_Burbank,0.0,697
+XGBoost,City_Burlingame,0.0,698
+XGBoost,City_Burson,0.0,699
+XGBoost,City_Butte Meadows,0.0,700
+XGBoost,City_Butte Valley,0.0,701
+XGBoost,City_Byron,0.0,702
+XGBoost,City_Cabazon,0.0,703
+XGBoost,City_Calabasas,0.0,704
+XGBoost,City_Caliente,0.0,705
+XGBoost,City_Brookdale,0.0,706
+XGBoost,City_California City,0.0,707
+XGBoost,City_Camarillo,0.0,708
+XGBoost,City_Cambria,0.0,709
+XGBoost,City_Cameron Park,0.0,710
+XGBoost,City_Campbell,0.0,711
+XGBoost,City_Campo,0.0,712
+XGBoost,City_Camptonville,0.0,713
+XGBoost,City_Canoga Park,0.0,714
+XGBoost,City_Canyon Country,0.0,715
+XGBoost,City_Canyon Lake,0.0,716
+XGBoost,City_Capitola,0.0,717
+XGBoost,City_Cardiff By The Sea,0.0,718
+XGBoost,City_Browns Valley,0.0,719
+XGBoost,City_Brisbane,0.0,720
+XGBoost,City_Benicia,0.0,721
+XGBoost,City_Blue Jay,0.0,722
+XGBoost,City_Bermuda Dunes,0.0,723
+XGBoost,City_Berry Creek,0.0,724
+XGBoost,City_Bethel Island,0.0,725
+XGBoost,City_Big Bar,0.0,726
+XGBoost,City_Big Bear,0.0,727
+XGBoost,City_Big Bear City,0.0,728
+XGBoost,City_Big Bear Lake,0.0,729
+XGBoost,City_Big River,0.0,730
+XGBoost,City_Big Sur,0.0,731
+XGBoost,City_Biggs,0.0,732
+XGBoost,City_Bishop,0.0,733
+XGBoost,City_Bloomington,0.0,734
+XGBoost,City_Blythe,0.0,735
+XGBoost,City_Brentwood,0.0,736
+XGBoost,City_Bodfish,0.0,737
+XGBoost,City_Bombay Beach,0.0,738
+XGBoost,City_Bonita,0.0,739
+XGBoost,City_Bonsall,0.0,740
+XGBoost,City_Boron,0.0,741
+XGBoost,City_Borrego Springs,0.0,742
+XGBoost,City_Boulder Creek,0.0,743
+XGBoost,City_Boulevard,0.0,744
+XGBoost,City_Bradbury,0.0,745
+XGBoost,City_Bradley,0.0,746
+XGBoost,City_Brawley,0.0,747
+XGBoost,City_Brea,0.0,748
+XGBoost,City_Escondido,0.0,749
+XGBoost,City_Eureka,0.0,750
+XGBoost,City_Exeter,0.0,751
+XGBoost,City_Lewiston,0.0,752
+XGBoost,City_Lancaster,0.0,753
+XGBoost,City_Landers,0.0,754
+XGBoost,City_Lathrop,0.0,755
+XGBoost,City_Lawndale,0.0,756
+XGBoost,City_Laytonville,0.0,757
+XGBoost,City_Le Grand,0.0,758
+XGBoost,City_Lebec,0.0,759
+XGBoost,City_Leimert Park,0.0,760
+XGBoost,City_Lemon Grove,0.0,761
+XGBoost,City_Lemoore,0.0,762
+XGBoost,City_Lennox,0.0,763
+XGBoost,City_Leona Valley,0.0,764
+XGBoost,City_Lincoln,0.0,765
+XGBoost,City_Lakewood,0.0,766
+XGBoost,City_Lincoln Heights,0.0,767
+XGBoost,City_Linda,0.0,768
+XGBoost,City_Linden,0.0,769
+XGBoost,City_Lindsay,0.0,770
+XGBoost,City_Little River,0.0,771
+XGBoost,City_Littlerock,0.0,772
+XGBoost,City_Live Oak,0.0,773
+XGBoost,City_Livermore,0.0,774
+XGBoost,City_Livingston,0.0,775
+XGBoost,City_Llano,0.0,776
+XGBoost,City_Loch Lomond,0.0,777
+XGBoost,City_Lockeford,0.0,778
+XGBoost,City_Lamont,0.0,779
+XGBoost,City_Lakeview Terrace,0.0,780
+XGBoost,City_Lodi,0.0,781
+XGBoost,City_Laguna Niguel,0.0,782
+XGBoost,City_La Honda,0.0,783
+XGBoost,City_La Mirada,0.0,784
+XGBoost,City_La Palma,0.0,785
+XGBoost,City_La Porte,0.0,786
+XGBoost,City_La Puente,0.0,787
+XGBoost,City_La Selva Beach,0.0,788
+XGBoost,City_La Verne,0.0,789
+XGBoost,City_Ladera Heights,0.0,790
+XGBoost,City_Ladera Ranch,0.0,791
+XGBoost,City_Lafayette,0.0,792
+XGBoost,City_Laguna Beach,0.0,793
+XGBoost,City_Laguna Hills,0.0,794
+XGBoost,City_Laguna Woods,0.0,795
+XGBoost,City_Lakeside,0.0,796
+XGBoost,City_Lake Almanor,0.0,797
+XGBoost,City_Lake Arrowhead,0.0,798
+XGBoost,City_Lake Balboa,0.0,799
+XGBoost,City_Lake Elizabeth,0.0,800
+XGBoost,City_Lake Forest,0.0,801
+XGBoost,City_Lake Hughes,0.0,802
+XGBoost,City_Lake Isabella,0.0,803
+XGBoost,City_Lake Los Angeles,0.0,804
+XGBoost,City_Lake Mathews,0.0,805
+XGBoost,City_Lake Nacimiento,0.0,806
+XGBoost,City_Lake Sherwood,0.0,807
+XGBoost,City_Lakeport,0.0,808
+XGBoost,City_Lockwood,0.0,809
+XGBoost,City_Loma Linda,0.0,810
+XGBoost,City_Fair Oaks,0.0,811
+XGBoost,City_Midway City,0.0,812
+XGBoost,City_Marysville,0.0,813
+XGBoost,City_Maywood,0.0,814
+XGBoost,City_McFarland,0.0,815
+XGBoost,City_Mecca,0.0,816
+XGBoost,City_Mendocino,0.0,817
+XGBoost,City_Menifee,0.0,818
+XGBoost,City_Menlo Park,0.0,819
+XGBoost,City_Mentone,0.0,820
+XGBoost,City_Merced,0.0,821
+XGBoost,City_Mi Wuk Village,0.0,822
+XGBoost,City_Middletown,0.0,823
+XGBoost,City_Midpines,0.0,824
+XGBoost,City_Agua Dulce,0.0,825
+XGBoost,City_Marina Del Rey,0.0,826
+XGBoost,City_Millbrae,0.0,827
+XGBoost,City_Milpitas,0.0,828
+XGBoost,City_Mineral,0.0,829
+XGBoost,City_Mira Mesa,0.0,830
+XGBoost,City_Miramonte,0.0,831
+XGBoost,City_Alameda,0.0,832
+XGBoost,City_Mission Valley,0.0,833
+XGBoost,City_Mission Viejo,0.0,834
+XGBoost,City_Modesto,0.0,835
+XGBoost,City_Modjeska Canyon,0.0,836
+XGBoost,City_Mojave,0.0,837
+XGBoost,City_Monrovia,0.0,838
+XGBoost,City_Martinez,0.0,839
+XGBoost,City_Marina,0.0,840
+XGBoost,City_Loma Mar,0.0,841
+XGBoost,City_Los Olivos,0.0,842
+XGBoost,City_Loma Rica,0.0,843
+XGBoost,City_Lomita,0.0,844
+XGBoost,City_Lompoc,0.0,845
+XGBoost,City_Long Beach,0.0,846
+XGBoost,City_Loomis,0.0,847
+XGBoost,City_Los Alamitos,0.0,848
+XGBoost,City_Los Alamos,0.0,849
+XGBoost,City_Los Altos Hills,0.0,850
+XGBoost,City_Los Banos,0.0,851
+XGBoost,City_Los Feliz,0.0,852
+XGBoost,City_Los Gatos,0.0,853
+XGBoost,City_Los Molinos,0.0,854
+XGBoost,City_Los Osos,0.0,855
+XGBoost,City_Maricopa,0.0,856
+XGBoost,City_Lower Lake,0.0,857
+XGBoost,City_Lucerne,0.0,858
+XGBoost,City_Lynwood,0.0,859
+XGBoost,City_Lytle Creek,0.0,860
+XGBoost,City_Madera,0.0,861
+XGBoost,City_Magalia,0.0,862
+XGBoost,City_Malibu,0.0,863
+XGBoost,City_Mammoth Lakes,0.0,864
+XGBoost,City_Manchester,0.0,865
+XGBoost,City_Manhattan Beach,0.0,866
+XGBoost,City_Manteca,0.0,867
+XGBoost,City_Mar Vista,0.0,868
+XGBoost,City_La Habra Heights,0.0,869
+XGBoost,City_La Habra,0.0,870
+XGBoost,City_La Grange,0.0,871
+XGBoost,City_Granite Bay,0.0,872
+XGBoost,City_Glassell Park,0.0,873
+XGBoost,City_Glen Ellen,0.0,874
+XGBoost,City_Glencoe,0.0,875
+XGBoost,City_Glendale,0.0,876
+XGBoost,City_Glendora,0.0,877
+XGBoost,City_Glenhaven,0.0,878
+XGBoost,City_Glenn,0.0,879
+XGBoost,City_Gold River,0.0,880
+XGBoost,City_Goleta,0.0,881
+XGBoost,City_Gonzales,0.0,882
+XGBoost,City_Granada Hills,0.0,883
+XGBoost,City_Grand Terrace,0.0,884
+XGBoost,City_Grass Valley,0.0,885
+XGBoost,City_Gerber,0.0,886
+XGBoost,City_Green Valley,0.0,887
+XGBoost,City_Green Valley Lake,0.0,888
+XGBoost,City_Greenfield,0.0,889
+XGBoost,City_Gridley,0.0,890
+XGBoost,City_Groveland,0.0,891
+XGBoost,City_Grover Beach,0.0,892
+XGBoost,City_Guadalupe,0.0,893
+XGBoost,City_Gualala,0.0,894
+XGBoost,City_Guatay,0.0,895
+XGBoost,City_Gustine,0.0,896
+XGBoost,City_Half Moon Bay,0.0,897
+XGBoost,City_Hanford,0.0,898
+XGBoost,City_Gilroy,0.0,899
+XGBoost,City_Gardena,0.0,900
+XGBoost,City_La Crescenta,0.0,901
+XGBoost,City_Forest Ranch,0.0,902
+XGBoost,City_Fairfax,0.0,903
+XGBoost,City_Fairfield,0.0,904
+XGBoost,City_Fallbrook,0.0,905
+XGBoost,City_Fawnskin,0.0,906
+XGBoost,City_Felton,0.0,907
+XGBoost,City_Fillmore,0.0,908
+XGBoost,City_Firebaugh,0.0,909
+XGBoost,City_Flournoy,0.0,910
+XGBoost,City_Folsom,0.0,911
+XGBoost,City_Fontana,0.0,912
+XGBoost,City_Forbestown,0.0,913
+XGBoost,City_Forest Falls,0.0,914
+XGBoost,City_Foresthill,0.0,915
+XGBoost,City_Garden Grove,0.0,916
+XGBoost,City_Fort Bragg,0.0,917
+XGBoost,City_Fortuna,0.0,918
+XGBoost,City_Foster City,0.0,919
+XGBoost,City_Fowler,0.0,920
+XGBoost,City_Frazier Park,0.0,921
+XGBoost,City_Freedom,0.0,922
+XGBoost,City_Fremont,0.0,923
+XGBoost,City_French Valley,0.0,924
+XGBoost,City_Fresno,0.0,925
+XGBoost,City_Friant,0.0,926
+XGBoost,City_Fullerton,0.0,927
+XGBoost,City_Galt,0.0,928
+XGBoost,City_Harbor City,0.0,929
+XGBoost,City_Hawaiian Gardens,0.0,930
+XGBoost,City_Hawthorne,0.0,931
+XGBoost,City_Junction City,0.0,932
+XGBoost,City_Ione,0.0,933
+XGBoost,City_Irvine,0.0,934
+XGBoost,City_Irwindale,0.0,935
+XGBoost,City_Isleton,0.0,936
+XGBoost,City_Jackson,0.0,937
+XGBoost,City_Jacumba,0.0,938
+XGBoost,City_Jamestown,0.0,939
+XGBoost,City_Jamul,0.0,940
+XGBoost,City_Janesville,0.0,941
+XGBoost,City_Johnson Valley,0.0,942
+XGBoost,City_Joshua Tree,0.0,943
+XGBoost,City_Julian,0.0,944
+XGBoost,City_Juniper Hills,0.0,945
+XGBoost,City_Hayfork,0.0,946
+XGBoost,City_Jurupa Valley,0.0,947
+XGBoost,City_Keene,0.0,948
+XGBoost,City_Kelseyville,0.0,949
+XGBoost,City_Kennedy Meadows,0.0,950
+XGBoost,City_Kensington,0.0,951
+XGBoost,City_Kerman,0.0,952
+XGBoost,City_Kernville,0.0,953
+XGBoost,City_King City,0.0,954
+XGBoost,City_Kings Beach,0.0,955
+XGBoost,City_Kingsburg,0.0,956
+XGBoost,City_Knightsen,0.0,957
+XGBoost,City_La Canada Flintridge,0.0,958
+XGBoost,City_Inglewood,0.0,959
+XGBoost,City_Indio,0.0,960
+XGBoost,City_Imperial Beach,0.0,961
+XGBoost,City_Imperial,0.0,962
+XGBoost,City_Hayward,0.0,963
+XGBoost,City_Healdsburg,0.0,964
+XGBoost,City_Helendale,0.0,965
+XGBoost,City_Hemet,0.0,966
+XGBoost,City_Herald,0.0,967
+XGBoost,City_Hercules,0.0,968
+XGBoost,City_Hermosa Beach,0.0,969
+XGBoost,City_Hidden Hills,0.0,970
+XGBoost,City_Hidden Valley Lake,0.0,971
+XGBoost,City_Highgrove,0.0,972
+XGBoost,City_Highland,0.0,973
+XGBoost,City_Highland Park,0.0,974
+XGBoost,City_Hillsborough,0.0,975
+XGBoost,City_Hilmar,0.0,976
+XGBoost,City_Hinkley,0.0,977
+XGBoost,City_Hollister,0.0,978
+XGBoost,City_Hollywood Hills,0.0,979
+XGBoost,City_Hollywood Hills East,0.0,980
+XGBoost,City_Homeland,0.0,981
+XGBoost,City_Hornbrook,0.0,982
+XGBoost,City_Hughson,0.0,983
+XGBoost,City_Huntington Beach,0.0,984
+XGBoost,City_Huntington Park,0.0,985
+XGBoost,City_Huron,0.0,986
+XGBoost,City_Idyllwild,0.0,987
+XGBoost,City_Mill Valley,0.0,988
+LightGBM,ListPrice,604.0,1
+LightGBM,ListPricePerSquareFoot,84.0,2
+LightGBM,OutdoorSpaceApprox,82.0,3
+LightGBM,LivingAreaPerBathroom,71.0,4
+LightGBM,PropertyAge,46.0,5
+LightGBM,LotSizeSquareFeet,40.0,6
+LightGBM,LogListPrice,39.0,7
+LightGBM,City_Lake Elsinore,37.0,8
+LightGBM,City_Victorville,35.0,9
+LightGBM,LivingAreaPerBedroom,33.0,10
+LightGBM,City_Ramona,32.0,11
+LightGBM,LivingArea,31.0,12
+LightGBM,LotToLivingAreaRatio,30.0,13
+LightGBM,BedBathRatio,23.0,14
+LightGBM,City_Chula Vista,16.0,15
+LightGBM,BathroomsTotalInteger,15.0,16
+LightGBM,PropertyAgeSquared,9.0,17
+LightGBM,LogLivingArea,8.0,18
+LightGBM,TotalRoomsApprox,7.0,19
+LightGBM,LogLotSize,6.0,20
+LightGBM,BedroomsTotal,5.0,21
+LightGBM,CountyOrParish_San Diego,3.0,22
+LightGBM,IsOlderProperty,2.0,23
+LightGBM,CountyOrParish_San Bernardino,2.0,24
+LightGBM,City_Rancho Cascades,0.0,25
+LightGBM,City_Rancho Mission Viejo,0.0,26
+LightGBM,City_Rancho Mirage,0.0,27
+LightGBM,City_Rancho Dominguez,0.0,28
+LightGBM,City_Rancho Cucamonga,0.0,29
+LightGBM,City_Rancho Cordova,0.0,30
+LightGBM,City_Rainbow,0.0,31
+LightGBM,City_Ranchita,0.0,32
+LightGBM,City_Alameda,0.0,33
+LightGBM,City_Rancho Penasquitos,0.0,34
+LightGBM,City_Quincy,0.0,35
+LightGBM,City_Quartz Hill,0.0,36
+LightGBM,City_Quail Valley,0.0,37
+LightGBM,City_Rancho Palos Verdes,0.0,38
+LightGBM,City_Alhambra,0.0,39
+LightGBM,City_Rancho Santa Fe,0.0,40
+LightGBM,City_Rancho Santa Margarita,0.0,41
+LightGBM,City_Red Bluff,0.0,42
+LightGBM,City_Redding,0.0,43
+LightGBM,City_Redlands,0.0,44
+LightGBM,City_Redondo Beach,0.0,45
+LightGBM,City_Redwood City,0.0,46
+LightGBM,City_Redwood Valley,0.0,47
+LightGBM,City_Reedley,0.0,48
+LightGBM,City_Rescue,0.0,49
+LightGBM,City_Reseda,0.0,50
+LightGBM,City_Reseda Ranch,0.0,51
+LightGBM,City_Rialto,0.0,52
+LightGBM,City_Raymond,0.0,53
+LightGBM,City_Poway,0.0,54
+LightGBM,City_Prunedale,0.0,55
+LightGBM,City_Playa Del Rey,0.0,56
+LightGBM,City_Pine Mountain Club,0.0,57
+LightGBM,City_Pine Valley,0.0,58
+LightGBM,City_Pinole,0.0,59
+LightGBM,City_Pinon Hills,0.0,60
+LightGBM,City_Pioneer,0.0,61
+LightGBM,City_Pioneertown,0.0,62
+LightGBM,City_Piru,0.0,63
+LightGBM,City_Pismo Beach,0.0,64
+LightGBM,City_Pittsburg,0.0,65
+LightGBM,City_Placentia,0.0,66
+LightGBM,City_Placerville,0.0,67
+LightGBM,City_Planada,0.0,68
+LightGBM,City_Pleasant Hill,0.0,69
+LightGBM,City_Richvale,0.0,70
+LightGBM,City_Pleasanton,0.0,71
+LightGBM,City_Plumas Lake,0.0,72
+LightGBM,City_Point Arena,0.0,73
+LightGBM,City_Point Loma,0.0,74
+LightGBM,City_Pomona,0.0,75
+LightGBM,City_Port Costa,0.0,76
+LightGBM,City_Port Hueneme,0.0,77
+LightGBM,City_Porter Ranch,0.0,78
+LightGBM,City_Porterville,0.0,79
+LightGBM,City_Portola Valley,0.0,80
+LightGBM,City_Potrero,0.0,81
+LightGBM,City_Potter Valley,0.0,82
+LightGBM,City_Richmond,0.0,83
+LightGBM,City_Rio Vista,0.0,84
+LightGBM,City_Ridgecrest,0.0,85
+LightGBM,City_San Marino,0.0,86
+LightGBM,City_San Dimas,0.0,87
+LightGBM,City_San Fernando,0.0,88
+LightGBM,City_San Francisco,0.0,89
+LightGBM,City_San Gabriel,0.0,90
+LightGBM,City_San Jacinto,0.0,91
+LightGBM,City_San Jose,0.0,92
+LightGBM,City_San Juan Bautista,0.0,93
+LightGBM,City_San Juan Capistrano,0.0,94
+LightGBM,City_San Leandro,0.0,95
+LightGBM,City_San Lorenzo,0.0,96
+LightGBM,City_San Luis Obispo,0.0,97
+LightGBM,City_San Marcos,0.0,98
+LightGBM,City_San Martin,0.0,99
+LightGBM,City_San Clemente,0.0,100
+LightGBM,City_San Mateo,0.0,101
+LightGBM,City_San Miguel,0.0,102
+LightGBM,City_San Pablo,0.0,103
+LightGBM,City_San Pedro,0.0,104
+LightGBM,City_San Rafael,0.0,105
+LightGBM,City_San Ramon,0.0,106
+LightGBM,City_San Simeon,0.0,107
+LightGBM,City_San Ysidro,0.0,108
+LightGBM,City_Sanger,0.0,109
+LightGBM,City_Santa Ana,0.0,110
+LightGBM,City_Santa Barbara,0.0,111
+LightGBM,City_Santa Clara,0.0,112
+LightGBM,City_San Diego,0.0,113
+LightGBM,City_San Carlos,0.0,114
+LightGBM,City_Rimforest,0.0,115
+LightGBM,City_Rosemead,0.0,116
+LightGBM,City_Rio Linda,0.0,117
+LightGBM,City_Piedmont,0.0,118
+LightGBM,City_Ripon,0.0,119
+LightGBM,City_Riverbank,0.0,120
+LightGBM,City_Riverdale,0.0,121
+LightGBM,City_Riverside,0.0,122
+LightGBM,City_Rocklin,0.0,123
+LightGBM,City_Rodeo,0.0,124
+LightGBM,City_Rohnert Park,0.0,125
+LightGBM,City_Rolling Hills,0.0,126
+LightGBM,City_Rolling Hills Estates,0.0,127
+LightGBM,City_Rosamond,0.0,128
+LightGBM,City_Roseville,0.0,129
+LightGBM,City_San Bruno,0.0,130
+LightGBM,City_Rossmoor,0.0,131
+LightGBM,City_Rowland Heights,0.0,132
+LightGBM,City_Royal Oaks,0.0,133
+LightGBM,City_Running Springs,0.0,134
+LightGBM,City_Sacramento,0.0,135
+LightGBM,City_Salida,0.0,136
+LightGBM,City_Salinas,0.0,137
+LightGBM,City_Salton City,0.0,138
+LightGBM,City_Salton Sea Beach,0.0,139
+LightGBM,City_San Andreas,0.0,140
+LightGBM,City_San Anselmo,0.0,141
+LightGBM,City_San Bernardino,0.0,142
+LightGBM,City_Pilot Hill,0.0,143
+LightGBM,City_Phelan,0.0,144
+LightGBM,City_Pico Rivera,0.0,145
+LightGBM,City_Newport Coast,0.0,146
+LightGBM,City_Napa,0.0,147
+LightGBM,City_National City,0.0,148
+LightGBM,City_Navarro,0.0,149
+LightGBM,City_Needles,0.0,150
+LightGBM,City_Nelson,0.0,151
+LightGBM,City_New Cuyama,0.0,152
+LightGBM,City_Newark,0.0,153
+LightGBM,City_Newberry Springs,0.0,154
+LightGBM,City_Newbury Park,0.0,155
+LightGBM,City_Newhall,0.0,156
+LightGBM,City_Newman,0.0,157
+LightGBM,City_Newport Beach,0.0,158
+LightGBM,City_Nice,0.0,159
+LightGBM,City_Murrieta,0.0,160
+LightGBM,City_Nipomo,0.0,161
+LightGBM,City_Norco,0.0,162
+LightGBM,City_North Edwards,0.0,163
+LightGBM,City_North Fork,0.0,164
+LightGBM,City_North Highlands,0.0,165
+LightGBM,City_North Hills,0.0,166
+LightGBM,City_North Hollywood,0.0,167
+LightGBM,City_North Palm Springs,0.0,168
+LightGBM,City_North Richmond,0.0,169
+LightGBM,City_North San Juan,0.0,170
+LightGBM,City_North Tustin,0.0,171
+LightGBM,City_Northridge,0.0,172
+LightGBM,City_Myers Flat,0.0,173
+LightGBM,City_Murphys,0.0,174
+LightGBM,City_Novato,0.0,175
+LightGBM,City_Moorpark,0.0,176
+LightGBM,City_Mojave,0.0,177
+LightGBM,City_Monrovia,0.0,178
+LightGBM,City_Montara,0.0,179
+LightGBM,City_Montclair,0.0,180
+LightGBM,City_Monte Rio,0.0,181
+LightGBM,City_Monte Sereno,0.0,182
+LightGBM,City_Montebello,0.0,183
+LightGBM,City_Montecito,0.0,184
+LightGBM,City_Montecito Heights,0.0,185
+LightGBM,City_Monterey,0.0,186
+LightGBM,City_Monterey Park,0.0,187
+LightGBM,City_Montrose,0.0,188
+LightGBM,City_Moraga,0.0,189
+LightGBM,City_Mt Baldy,0.0,190
+LightGBM,City_Moreno Valley,0.0,191
+LightGBM,City_Morgan Hill,0.0,192
+LightGBM,City_Morongo Valley,0.0,193
+LightGBM,City_Morro Bay,0.0,194
+LightGBM,City_Moss Beach,0.0,195
+LightGBM,City_Moss Landing,0.0,196
+LightGBM,City_Mount Hermon,0.0,197
+LightGBM,City_Mount Shasta,0.0,198
+LightGBM,City_Mountain Center,0.0,199
+LightGBM,City_Mountain House,0.0,200
+LightGBM,City_Mountain Mesa,0.0,201
+LightGBM,City_Mountain View,0.0,202
+LightGBM,City_Norwalk,0.0,203
+LightGBM,City_Nuevo,0.0,204
+LightGBM,City_Philo,0.0,205
+LightGBM,City_Paradise Hills,0.0,206
+LightGBM,City_Paicines,0.0,207
+LightGBM,City_Palermo,0.0,208
+LightGBM,City_Palm Desert,0.0,209
+LightGBM,City_Palm Springs,0.0,210
+LightGBM,City_Palmdale,0.0,211
+LightGBM,City_Palo Alto,0.0,212
+LightGBM,City_Palo Cedro,0.0,213
+LightGBM,City_Palomar Mountain,0.0,214
+LightGBM,City_Palos Verdes Estates,0.0,215
+LightGBM,City_Palos Verdes Peninsula,0.0,216
+LightGBM,City_Panorama City,0.0,217
+LightGBM,City_Paradise,0.0,218
+LightGBM,City_Paramount,0.0,219
+LightGBM,City_Pacifica,0.0,220
+LightGBM,City_Parlier,0.0,221
+LightGBM,City_Pasadena,0.0,222
+LightGBM,City_Paso Robles,0.0,223
+LightGBM,City_Patterson,0.0,224
+LightGBM,City_Pauma Valley,0.0,225
+LightGBM,City_Pearblossom,0.0,226
+LightGBM,City_Pebble Beach,0.0,227
+LightGBM,City_Perris,0.0,228
+LightGBM,City_Pescadero,0.0,229
+LightGBM,City_Petaluma,0.0,230
+LightGBM,City_Santa Cruz,0.0,231
+LightGBM,City_Phillips Ranch,0.0,232
+LightGBM,City_Pacoima,0.0,233
+LightGBM,City_Pacific Palisades,0.0,234
+LightGBM,City_O'Neals,0.0,235
+LightGBM,City_Olivehurst,0.0,236
+LightGBM,City_Oak Glen,0.0,237
+LightGBM,City_Oak Hills,0.0,238
+LightGBM,City_Oak Park,0.0,239
+LightGBM,City_Oak View,0.0,240
+LightGBM,City_Oakdale,0.0,241
+LightGBM,City_Oakhurst,0.0,242
+LightGBM,City_Oakland,0.0,243
+LightGBM,City_Oakley,0.0,244
+LightGBM,City_Oceano,0.0,245
+LightGBM,City_Oceanside,0.0,246
+LightGBM,City_Ojai,0.0,247
+LightGBM,City_Olancha,0.0,248
+LightGBM,City_Ontario,0.0,249
+LightGBM,City_Pacific Grove,0.0,250
+LightGBM,City_Orange,0.0,251
+LightGBM,City_Orangevale,0.0,252
+LightGBM,City_Orinda,0.0,253
+LightGBM,City_Orland,0.0,254
+LightGBM,City_Oro Grande,0.0,255
+LightGBM,City_Orosi,0.0,256
+LightGBM,City_Oroville,0.0,257
+LightGBM,City_Ortega Mountain,0.0,258
+LightGBM,City_Otay Mesa,0.0,259
+LightGBM,City_Other,0.0,260
+LightGBM,City_Oxnard,0.0,261
+LightGBM,City_Pacheco,0.0,262
+LightGBM,City_Santa Clarita,0.0,263
+LightGBM,City_Santa Monica,0.0,264
+LightGBM,City_Santa Fe Springs,0.0,265
+LightGBM,City_Woodland,0.0,266
+LightGBM,City_Willits,0.0,267
+LightGBM,City_Willows,0.0,268
+LightGBM,City_Wilmington,0.0,269
+LightGBM,City_Wilton,0.0,270
+LightGBM,City_Winchester,0.0,271
+LightGBM,City_Windsor Hills,0.0,272
+LightGBM,City_Winnetka,0.0,273
+LightGBM,City_Winton,0.0,274
+LightGBM,City_Wishon,0.0,275
+LightGBM,City_Wofford Heights,0.0,276
+LightGBM,City_Woodbridge,0.0,277
+LightGBM,City_Woodcrest,0.0,278
+LightGBM,City_Woodland Hills,0.0,279
+LightGBM,City_Wildomar,0.0,280
+LightGBM,City_Woodside,0.0,281
+LightGBM,City_Wrightwood,0.0,282
+LightGBM,City_Yermo,0.0,283
+LightGBM,City_Yorba Linda,0.0,284
+LightGBM,City_Yosemite,0.0,285
+LightGBM,City_Yreka,0.0,286
+LightGBM,City_Yuba City,0.0,287
+LightGBM,City_Yucaipa,0.0,288
+LightGBM,City_Yucca Valley,0.0,289
+LightGBM,CountyOrParish_Amador,0.0,290
+LightGBM,CountyOrParish_Butte,0.0,291
+LightGBM,CountyOrParish_Calaveras,0.0,292
+LightGBM,City_Williams,0.0,293
+LightGBM,City_Whittier,0.0,294
+LightGBM,CountyOrParish_Contra Costa,0.0,295
+LightGBM,City_Weldon,0.0,296
+LightGBM,City_Vina,0.0,297
+LightGBM,City_Visalia,0.0,298
+LightGBM,City_Vista,0.0,299
+LightGBM,City_Walnut,0.0,300
+LightGBM,City_Walnut Creek,0.0,301
+LightGBM,City_Walnut Grove,0.0,302
+LightGBM,City_Warner Springs,0.0,303
+LightGBM,City_Wasco,0.0,304
+LightGBM,City_Waterford,0.0,305
+LightGBM,City_Watsonville,0.0,306
+LightGBM,City_Weaverville,0.0,307
+LightGBM,City_Weed,0.0,308
+LightGBM,City_West Covina,0.0,309
+LightGBM,City_Whitewater,0.0,310
+LightGBM,City_West Hills,0.0,311
+LightGBM,City_West Hollywood,0.0,312
+LightGBM,City_West Los Angeles,0.0,313
+LightGBM,City_West Point,0.0,314
+LightGBM,City_West Sacramento,0.0,315
+LightGBM,City_West Toluca Lake,0.0,316
+LightGBM,City_Westchester,0.0,317
+LightGBM,City_Westlake Village,0.0,318
+LightGBM,City_Westminster,0.0,319
+LightGBM,City_Westport,0.0,320
+LightGBM,City_Westwood,0.0,321
+LightGBM,City_Wheatland,0.0,322
+LightGBM,CountyOrParish_Colusa,0.0,323
+LightGBM,CountyOrParish_El Dorado,0.0,324
+LightGBM,City_Santa Margarita,0.0,325
+LightGBM,CountyOrParish_Trinity,0.0,326
+LightGBM,CountyOrParish_San Luis Obispo,0.0,327
+LightGBM,CountyOrParish_San Mateo,0.0,328
+LightGBM,CountyOrParish_Santa Barbara,0.0,329
+LightGBM,CountyOrParish_Santa Clara,0.0,330
+LightGBM,CountyOrParish_Santa Cruz,0.0,331
+LightGBM,CountyOrParish_Shasta,0.0,332
+LightGBM,CountyOrParish_Siskiyou,0.0,333
+LightGBM,CountyOrParish_Solano,0.0,334
+LightGBM,CountyOrParish_Sonoma,0.0,335
+LightGBM,CountyOrParish_Stanislaus,0.0,336
+LightGBM,CountyOrParish_Sutter,0.0,337
+LightGBM,CountyOrParish_Tehama,0.0,338
+LightGBM,CountyOrParish_Tulare,0.0,339
+LightGBM,CountyOrParish_San Francisco,0.0,340
+LightGBM,CountyOrParish_Tuolumne,0.0,341
+LightGBM,CountyOrParish_Ventura,0.0,342
+LightGBM,CountyOrParish_Yolo,0.0,343
+LightGBM,CountyOrParish_Yuba,0.0,344
+LightGBM,City_Aguanga,0.0,345
+LightGBM,City_Agua Dulce,0.0,346
+LightGBM,City_Agoura Hills,0.0,347
+LightGBM,City_Adelanto,0.0,348
+LightGBM,City_Acton,0.0,349
+LightGBM,City_Acampo,0.0,350
+LightGBM,IsNewProperty,0.0,351
+LightGBM,IsRecentProperty,0.0,352
+LightGBM,CountyOrParish_San Joaquin,0.0,353
+LightGBM,CountyOrParish_San Benito,0.0,354
+LightGBM,CountyOrParish_Foreign Country,0.0,355
+LightGBM,CountyOrParish_Mariposa,0.0,356
+LightGBM,CountyOrParish_Fresno,0.0,357
+LightGBM,CountyOrParish_Glenn,0.0,358
+LightGBM,CountyOrParish_Humboldt,0.0,359
+LightGBM,CountyOrParish_Imperial,0.0,360
+LightGBM,CountyOrParish_Inyo,0.0,361
+LightGBM,CountyOrParish_Kern,0.0,362
+LightGBM,CountyOrParish_Kings,0.0,363
+LightGBM,CountyOrParish_Lake,0.0,364
+LightGBM,CountyOrParish_Lassen,0.0,365
+LightGBM,CountyOrParish_Los Angeles,0.0,366
+LightGBM,CountyOrParish_Madera,0.0,367
+LightGBM,CountyOrParish_Marin,0.0,368
+LightGBM,CountyOrParish_Mendocino,0.0,369
+LightGBM,CountyOrParish_Sacramento,0.0,370
+LightGBM,CountyOrParish_Merced,0.0,371
+LightGBM,CountyOrParish_Modoc,0.0,372
+LightGBM,CountyOrParish_Mono,0.0,373
+LightGBM,CountyOrParish_Monterey,0.0,374
+LightGBM,CountyOrParish_Napa,0.0,375
+LightGBM,CountyOrParish_Nevada,0.0,376
+LightGBM,CountyOrParish_Orange,0.0,377
+LightGBM,CountyOrParish_Other,0.0,378
+LightGBM,CountyOrParish_Other State,0.0,379
+LightGBM,CountyOrParish_Placer,0.0,380
+LightGBM,CountyOrParish_Plumas,0.0,381
+LightGBM,CountyOrParish_Riverside,0.0,382
+LightGBM,City_Villa Park,0.0,383
+LightGBM,City_View Park,0.0,384
+LightGBM,City_Ahwahnee,0.0,385
+LightGBM,City_South Gate,0.0,386
+LightGBM,City_Sky Valley,0.0,387
+LightGBM,City_Soda Springs,0.0,388
+LightGBM,City_Solana Beach,0.0,389
+LightGBM,City_Soledad,0.0,390
+LightGBM,City_Solvang,0.0,391
+LightGBM,City_Somis,0.0,392
+LightGBM,City_Sonoma,0.0,393
+LightGBM,City_Sonora,0.0,394
+LightGBM,City_Soquel,0.0,395
+LightGBM,City_Soulsbyville,0.0,396
+LightGBM,City_South Dos Palos,0.0,397
+LightGBM,City_South El Monte,0.0,398
+LightGBM,City_South Lake Tahoe,0.0,399
+LightGBM,City_Silverado Canyon,0.0,400
+LightGBM,City_South Pasadena,0.0,401
+LightGBM,City_South San Francisco,0.0,402
+LightGBM,City_Spreckels,0.0,403
+LightGBM,City_Spring Valley,0.0,404
+LightGBM,City_Springville,0.0,405
+LightGBM,City_Squaw Valley,0.0,406
+LightGBM,City_Stanton,0.0,407
+LightGBM,City_Stevenson Ranch,0.0,408
+LightGBM,City_Stevinson,0.0,409
+LightGBM,City_Stockton,0.0,410
+LightGBM,City_Stonyford,0.0,411
+LightGBM,City_Strawberry,0.0,412
+LightGBM,City_Simi Valley,0.0,413
+LightGBM,City_Silverado,0.0,414
+LightGBM,City_Ventura,0.0,415
+LightGBM,City_Scripps Miramar,0.0,416
+LightGBM,City_Santa Maria,0.0,417
+LightGBM,City_Modesto,0.0,418
+LightGBM,City_Santa Nella,0.0,419
+LightGBM,City_Santa Paula,0.0,420
+LightGBM,City_Santa Rosa,0.0,421
+LightGBM,City_Santa Ynez,0.0,422
+LightGBM,City_Santa Ysabel,0.0,423
+LightGBM,City_Santee,0.0,424
+LightGBM,City_Saratoga,0.0,425
+LightGBM,City_Saugus,0.0,426
+LightGBM,City_Sausalito,0.0,427
+LightGBM,City_Scotts Valley,0.0,428
+LightGBM,City_Seal Beach,0.0,429
+LightGBM,City_Silver Lake,0.0,430
+LightGBM,City_Seaside,0.0,431
+LightGBM,City_Sebastopol,0.0,432
+LightGBM,City_Selma,0.0,433
+LightGBM,City_Shadow Hills,0.0,434
+LightGBM,City_Shafter,0.0,435
+LightGBM,City_Shandon,0.0,436
+LightGBM,City_Shasta Lake,0.0,437
+LightGBM,City_Sherman Oaks,0.0,438
+LightGBM,City_Sherwood Forest,0.0,439
+LightGBM,City_Shingletown,0.0,440
+LightGBM,City_Sierra Madre,0.0,441
+LightGBM,City_Signal Hill,0.0,442
+LightGBM,City_Studio City,0.0,443
+LightGBM,City_Sugarloaf,0.0,444
+LightGBM,City_Suisun City,0.0,445
+LightGBM,City_University City,0.0,446
+LightGBM,City_Trona,0.0,447
+LightGBM,City_Tujunga,0.0,448
+LightGBM,City_Tulare,0.0,449
+LightGBM,City_Tuolumne,0.0,450
+LightGBM,City_Turlock,0.0,451
+LightGBM,City_Tustin,0.0,452
+LightGBM,City_Twain Harte,0.0,453
+LightGBM,City_Twentynine Palms,0.0,454
+LightGBM,City_Twin Peaks,0.0,455
+LightGBM,City_Ukiah,0.0,456
+LightGBM,City_Unincorporated,0.0,457
+LightGBM,City_Union City,0.0,458
+LightGBM,City_Unknown,0.0,459
+LightGBM,City_Summerland,0.0,460
+LightGBM,City_Upland,0.0,461
+LightGBM,City_Upper Lake,0.0,462
+LightGBM,City_Vacaville,0.0,463
+LightGBM,City_Val Verde,0.0,464
+LightGBM,City_Valencia,0.0,465
+LightGBM,City_Vallejo,0.0,466
+LightGBM,City_Valley Center,0.0,467
+LightGBM,City_Valley Glen,0.0,468
+LightGBM,City_Valley Springs,0.0,469
+LightGBM,City_Valley Village,0.0,470
+LightGBM,City_Van Nuys,0.0,471
+LightGBM,City_Venice,0.0,472
+LightGBM,City_Trinity Center,0.0,473
+LightGBM,City_Tres Pinos,0.0,474
+LightGBM,City_Tracy,0.0,475
+LightGBM,City_Trabuco Canyon,0.0,476
+LightGBM,City_Sun City,0.0,477
+LightGBM,City_Sun Valley,0.0,478
+LightGBM,City_Sunland,0.0,479
+LightGBM,City_Sunnyvale,0.0,480
+LightGBM,City_Sunol,0.0,481
+LightGBM,City_Sunset Beach,0.0,482
+LightGBM,City_Surfside,0.0,483
+LightGBM,City_Susanville,0.0,484
+LightGBM,City_Sylmar,0.0,485
+LightGBM,City_Taft,0.0,486
+LightGBM,City_Tarzana,0.0,487
+LightGBM,City_Tehachapi,0.0,488
+LightGBM,City_Temecula,0.0,489
+LightGBM,City_Temescal Valley,0.0,490
+LightGBM,City_Temple City,0.0,491
+LightGBM,City_Templeton,0.0,492
+LightGBM,City_Terra Bella,0.0,493
+LightGBM,City_Thermal,0.0,494
+LightGBM,City_Thousand Oaks,0.0,495
+LightGBM,City_Thousand Palms,0.0,496
+LightGBM,City_Tierrasanta,0.0,497
+LightGBM,City_Tollhouse,0.0,498
+LightGBM,City_Toluca Lake,0.0,499
+LightGBM,City_Topanga,0.0,500
+LightGBM,City_Torrance,0.0,501
+LightGBM,City_Modjeska Canyon,0.0,502
+LightGBM,City_Mission Viejo,0.0,503
+LightGBM,City_Aliso Viejo,0.0,504
+LightGBM,City_Cypress,0.0,505
+LightGBM,City_Coarsegold,0.0,506
+LightGBM,City_Cobb,0.0,507
+LightGBM,City_Cold Springs,0.0,508
+LightGBM,City_Colton,0.0,509
+LightGBM,City_Columbia,0.0,510
+LightGBM,City_Commerce,0.0,511
+LightGBM,City_Compton,0.0,512
+LightGBM,City_Concord,0.0,513
+LightGBM,City_Copperopolis,0.0,514
+LightGBM,City_Corcoran,0.0,515
+LightGBM,City_Corning,0.0,516
+LightGBM,City_Corona,0.0,517
+LightGBM,City_Corona Del Mar,0.0,518
+LightGBM,City_Coronado,0.0,519
+LightGBM,City_Corralitos,0.0,520
+LightGBM,City_Costa Mesa,0.0,521
+LightGBM,City_Coto de Caza,0.0,522
+LightGBM,City_Cottonwood,0.0,523
+LightGBM,City_Covelo,0.0,524
+LightGBM,City_Covina,0.0,525
+LightGBM,City_Cowan Heights,0.0,526
+LightGBM,City_Crestline,0.0,527
+LightGBM,City_Creston,0.0,528
+LightGBM,City_Crockett,0.0,529
+LightGBM,City_Cudahy,0.0,530
+LightGBM,City_Culver City,0.0,531
+LightGBM,City_Cupertino,0.0,532
+LightGBM,City_Coalinga,0.0,533
+LightGBM,City_Coachella,0.0,534
+LightGBM,City_Clovis,0.0,535
+LightGBM,City_Cherry Valley,0.0,536
+LightGBM,City_Castaic,0.0,537
+LightGBM,City_Castro Valley,0.0,538
+LightGBM,City_Castroville,0.0,539
+LightGBM,City_Cathedral City,0.0,540
+LightGBM,City_Catheys Valley,0.0,541
+LightGBM,City_Cayucos,0.0,542
+LightGBM,City_Cazadero,0.0,543
+LightGBM,City_Cedar Glen,0.0,544
+LightGBM,City_Cedarpines Park,0.0,545
+LightGBM,City_Ceres,0.0,546
+LightGBM,City_Cerritos,0.0,547
+LightGBM,City_Chatsworth,0.0,548
+LightGBM,City_Chico,0.0,549
+LightGBM,City_Clipper Mills,0.0,550
+LightGBM,City_Chino,0.0,551
+LightGBM,City_Chino Hills,0.0,552
+LightGBM,City_Chowchilla,0.0,553
+LightGBM,City_Albion,0.0,554
+LightGBM,City_Citrus Heights,0.0,555
+LightGBM,City_City Terrace,0.0,556
+LightGBM,City_Clairemont Mesa,0.0,557
+LightGBM,City_Claremont,0.0,558
+LightGBM,City_Clayton,0.0,559
+LightGBM,City_Clearlake,0.0,560
+LightGBM,City_Clearlake Oaks,0.0,561
+LightGBM,City_Clio,0.0,562
+LightGBM,City_Cutler,0.0,563
+LightGBM,City_Cypress Park,0.0,564
+LightGBM,City_Fair Oaks,0.0,565
+LightGBM,City_Daly City,0.0,566
+LightGBM,City_East Los Angeles,0.0,567
+LightGBM,City_East Palo Alto,0.0,568
+LightGBM,City_Eastvale,0.0,569
+LightGBM,City_Echo Park,0.0,570
+LightGBM,City_Edwards,0.0,571
+LightGBM,City_El Cajon,0.0,572
+LightGBM,City_El Centro,0.0,573
+LightGBM,City_El Cerrito,0.0,574
+LightGBM,City_El Dorado Hills,0.0,575
+LightGBM,City_El Granada,0.0,576
+LightGBM,City_El Mirage,0.0,577
+LightGBM,City_El Monte,0.0,578
+LightGBM,City_El Portal,0.0,579
+LightGBM,City_El Segundo,0.0,580
+LightGBM,City_El Sereno,0.0,581
+LightGBM,City_El Sobrante,0.0,582
+LightGBM,City_Elk,0.0,583
+LightGBM,City_Elk Creek,0.0,584
+LightGBM,City_Elk Grove,0.0,585
+LightGBM,City_Emeryville,0.0,586
+LightGBM,City_Empire,0.0,587
+LightGBM,City_Encanto,0.0,588
+LightGBM,City_Encinitas,0.0,589
+LightGBM,City_Encino,0.0,590
+LightGBM,City_Escalon,0.0,591
+LightGBM,City_Escondido,0.0,592
+LightGBM,City_Eureka,0.0,593
+LightGBM,City_Eagle Rock,0.0,594
+LightGBM,City_Durham,0.0,595
+LightGBM,City_Dunsmuir,0.0,596
+LightGBM,City_Devore,0.0,597
+LightGBM,City_Dana Point,0.0,598
+LightGBM,City_Danville,0.0,599
+LightGBM,City_Davis,0.0,600
+LightGBM,City_Del Mar,0.0,601
+LightGBM,City_Del Rey,0.0,602
+LightGBM,City_Del Rey Oaks,0.0,603
+LightGBM,City_Delano,0.0,604
+LightGBM,City_Delhi,0.0,605
+LightGBM,City_Denair,0.0,606
+LightGBM,City_Descanso,0.0,607
+LightGBM,City_Desert Center,0.0,608
+LightGBM,City_Desert Hot Springs,0.0,609
+LightGBM,City_Diablo,0.0,610
+LightGBM,City_Dunnigan,0.0,611
+LightGBM,City_Diamond Bar,0.0,612
+LightGBM,City_Dillon Beach,0.0,613
+LightGBM,City_Dinuba,0.0,614
+LightGBM,City_Discovery Bay,0.0,615
+LightGBM,City_Dixon,0.0,616
+LightGBM,City_Dobbins,0.0,617
+LightGBM,City_Dorrington,0.0,618
+LightGBM,City_Dos Palos,0.0,619
+LightGBM,City_Downey,0.0,620
+LightGBM,City_Duarte,0.0,621
+LightGBM,City_Dublin,0.0,622
+LightGBM,City_Dulzura,0.0,623
+LightGBM,City_Caruthers,0.0,624
+LightGBM,City_Carson,0.0,625
+LightGBM,City_Carpinteria,0.0,626
+LightGBM,City_Carmichael,0.0,627
+LightGBM,City_Atwater,0.0,628
+LightGBM,City_Atwater Village,0.0,629
+LightGBM,City_Auberry,0.0,630
+LightGBM,City_Auburn,0.0,631
+LightGBM,City_Avalon,0.0,632
+LightGBM,City_Avenal,0.0,633
+LightGBM,City_Avila Beach,0.0,634
+LightGBM,City_Azusa,0.0,635
+LightGBM,City_Bakersfield,0.0,636
+LightGBM,City_Baldwin Hills,0.0,637
+LightGBM,City_Baldwin Park,0.0,638
+LightGBM,City_Bangor,0.0,639
+LightGBM,City_Banning,0.0,640
+LightGBM,City_Barstow,0.0,641
+LightGBM,City_Bass Lake,0.0,642
+LightGBM,City_Bay Point,0.0,643
+LightGBM,City_Beaumont,0.0,644
+LightGBM,City_Bel Air,0.0,645
+LightGBM,City_Bell,0.0,646
+LightGBM,City_Bell Canyon,0.0,647
+LightGBM,City_Bell Gardens,0.0,648
+LightGBM,City_Bellflower,0.0,649
+LightGBM,City_Belmont,0.0,650
+LightGBM,City_Ben Lomond,0.0,651
+LightGBM,City_Benicia,0.0,652
+LightGBM,City_Berkeley,0.0,653
+LightGBM,City_Bermuda Dunes,0.0,654
+LightGBM,City_Atherton,0.0,655
+LightGBM,City_Atascadero,0.0,656
+LightGBM,City_Arvin,0.0,657
+LightGBM,City_Angwin,0.0,658
+LightGBM,City_Almanor,0.0,659
+LightGBM,City_Alpine,0.0,660
+LightGBM,City_Alta Loma,0.0,661
+LightGBM,City_Altadena,0.0,662
+LightGBM,City_Alturas,0.0,663
+LightGBM,City_Alviso,0.0,664
+LightGBM,City_American Canyon,0.0,665
+LightGBM,City_Anaheim,0.0,666
+LightGBM,City_Anaheim Hills,0.0,667
+LightGBM,City_Anderson,0.0,668
+LightGBM,City_Angels Camp,0.0,669
+LightGBM,City_Angelus Oaks,0.0,670
+LightGBM,City_Antelope,0.0,671
+LightGBM,City_Artois,0.0,672
+LightGBM,City_Antioch,0.0,673
+LightGBM,City_Anza,0.0,674
+LightGBM,City_Apple Valley,0.0,675
+LightGBM,City_Aptos,0.0,676
+LightGBM,City_Arbuckle,0.0,677
+LightGBM,City_Arcadia,0.0,678
+LightGBM,City_Arleta,0.0,679
+LightGBM,City_Arnold,0.0,680
+LightGBM,City_Aromas,0.0,681
+LightGBM,City_Arrowbear,0.0,682
+LightGBM,City_Arroyo Grande,0.0,683
+LightGBM,City_Artesia,0.0,684
+LightGBM,City_Berry Creek,0.0,685
+LightGBM,City_Bethel Island,0.0,686
+LightGBM,City_Beverly Hills,0.0,687
+LightGBM,City_Camarillo,0.0,688
+LightGBM,City_Burbank,0.0,689
+LightGBM,City_Burlingame,0.0,690
+LightGBM,City_Burson,0.0,691
+LightGBM,City_Butte Meadows,0.0,692
+LightGBM,City_Butte Valley,0.0,693
+LightGBM,City_Byron,0.0,694
+LightGBM,City_Cabazon,0.0,695
+LightGBM,City_Calabasas,0.0,696
+LightGBM,City_Calexico,0.0,697
+LightGBM,City_Caliente,0.0,698
+LightGBM,City_California City,0.0,699
+LightGBM,City_Calimesa,0.0,700
+LightGBM,City_Cambria,0.0,701
+LightGBM,City_Buena Park,0.0,702
+LightGBM,City_Cameron Park,0.0,703
+LightGBM,City_Campbell,0.0,704
+LightGBM,City_Campo,0.0,705
+LightGBM,City_Camptonville,0.0,706
+LightGBM,City_Canoga Park,0.0,707
+LightGBM,City_Canyon Country,0.0,708
+LightGBM,City_Canyon Lake,0.0,709
+LightGBM,City_Capitola,0.0,710
+LightGBM,City_Cardiff By The Sea,0.0,711
+LightGBM,City_Carlsbad,0.0,712
+LightGBM,City_Carmel,0.0,713
+LightGBM,City_Carmel Valley,0.0,714
+LightGBM,City_Bullhead City,0.0,715
+LightGBM,City_Buellton,0.0,716
+LightGBM,City_Big Bar,0.0,717
+LightGBM,City_Bonita,0.0,718
+LightGBM,City_Big Bear,0.0,719
+LightGBM,City_Big Bear City,0.0,720
+LightGBM,City_Big Bear Lake,0.0,721
+LightGBM,City_Big River,0.0,722
+LightGBM,City_Big Sur,0.0,723
+LightGBM,City_Biggs,0.0,724
+LightGBM,City_Bishop,0.0,725
+LightGBM,City_Bloomington,0.0,726
+LightGBM,City_Blue Jay,0.0,727
+LightGBM,City_Blythe,0.0,728
+LightGBM,City_Bodfish,0.0,729
+LightGBM,City_Bombay Beach,0.0,730
+LightGBM,City_Bonsall,0.0,731
+LightGBM,City_Brownsville,0.0,732
+LightGBM,City_Boron,0.0,733
+LightGBM,City_Borrego Springs,0.0,734
+LightGBM,City_Boulder Creek,0.0,735
+LightGBM,City_Boulevard,0.0,736
+LightGBM,City_Bradbury,0.0,737
+LightGBM,City_Bradley,0.0,738
+LightGBM,City_Brawley,0.0,739
+LightGBM,City_Brea,0.0,740
+LightGBM,City_Brentwood,0.0,741
+LightGBM,City_Brisbane,0.0,742
+LightGBM,City_Brookdale,0.0,743
+LightGBM,City_Browns Valley,0.0,744
+LightGBM,City_Exeter,0.0,745
+LightGBM,City_Fairfax,0.0,746
+LightGBM,City_Mission Valley,0.0,747
+LightGBM,City_Loch Lomond,0.0,748
+LightGBM,City_Lakeside,0.0,749
+LightGBM,City_Lakeview Terrace,0.0,750
+LightGBM,City_Lakewood,0.0,751
+LightGBM,City_Lamont,0.0,752
+LightGBM,City_Lancaster,0.0,753
+LightGBM,City_Landers,0.0,754
+LightGBM,City_Lathrop,0.0,755
+LightGBM,City_Lawndale,0.0,756
+LightGBM,City_Laytonville,0.0,757
+LightGBM,City_Le Grand,0.0,758
+LightGBM,City_Lebec,0.0,759
+LightGBM,City_Leimert Park,0.0,760
+LightGBM,City_Lemon Grove,0.0,761
+LightGBM,City_Lemoore,0.0,762
+LightGBM,City_Lennox,0.0,763
+LightGBM,City_Leona Valley,0.0,764
+LightGBM,City_Lewiston,0.0,765
+LightGBM,City_Lincoln,0.0,766
+LightGBM,City_Lincoln Heights,0.0,767
+LightGBM,City_Linda,0.0,768
+LightGBM,City_Linden,0.0,769
+LightGBM,City_Lindsay,0.0,770
+LightGBM,City_Little River,0.0,771
+LightGBM,City_Littlerock,0.0,772
+LightGBM,City_Live Oak,0.0,773
+LightGBM,City_Livermore,0.0,774
+LightGBM,City_Livingston,0.0,775
+LightGBM,City_Lakeport,0.0,776
+LightGBM,City_Lake Sherwood,0.0,777
+LightGBM,City_Lake Nacimiento,0.0,778
+LightGBM,City_Lafayette,0.0,779
+LightGBM,City_La Honda,0.0,780
+LightGBM,City_La Jolla,0.0,781
+LightGBM,City_La Mesa,0.0,782
+LightGBM,City_La Mirada,0.0,783
+LightGBM,City_La Palma,0.0,784
+LightGBM,City_La Porte,0.0,785
+LightGBM,City_La Puente,0.0,786
+LightGBM,City_La Quinta,0.0,787
+LightGBM,City_La Selva Beach,0.0,788
+LightGBM,City_La Verne,0.0,789
+LightGBM,City_Ladera Heights,0.0,790
+LightGBM,City_Ladera Ranch,0.0,791
+LightGBM,City_Laguna Beach,0.0,792
+LightGBM,City_Lake Mathews,0.0,793
+LightGBM,City_Laguna Hills,0.0,794
+LightGBM,City_Laguna Niguel,0.0,795
+LightGBM,City_Laguna Woods,0.0,796
+LightGBM,City_Lake Almanor,0.0,797
+LightGBM,City_Lake Arrowhead,0.0,798
+LightGBM,City_Lake Balboa,0.0,799
+LightGBM,City_Lake Elizabeth,0.0,800
+LightGBM,City_Albany,0.0,801
+LightGBM,City_Lake Forest,0.0,802
+LightGBM,City_Lake Hughes,0.0,803
+LightGBM,City_Lake Isabella,0.0,804
+LightGBM,City_Lake Los Angeles,0.0,805
+LightGBM,City_Llano,0.0,806
+LightGBM,City_Lockeford,0.0,807
+LightGBM,City_Fairfield,0.0,808
+LightGBM,City_Lockwood,0.0,809
+LightGBM,City_Manteca,0.0,810
+LightGBM,City_Mar Vista,0.0,811
+LightGBM,City_Maricopa,0.0,812
+LightGBM,City_Marina,0.0,813
+LightGBM,City_Marina Del Rey,0.0,814
+LightGBM,City_Mariposa,0.0,815
+LightGBM,City_Martinez,0.0,816
+LightGBM,City_Marysville,0.0,817
+LightGBM,City_Maywood,0.0,818
+LightGBM,City_McFarland,0.0,819
+LightGBM,City_Mecca,0.0,820
+LightGBM,City_Mendocino,0.0,821
+LightGBM,City_Menifee,0.0,822
+LightGBM,City_Menlo Park,0.0,823
+LightGBM,City_Mentone,0.0,824
+LightGBM,City_Merced,0.0,825
+LightGBM,City_Mi Wuk Village,0.0,826
+LightGBM,City_Middletown,0.0,827
+LightGBM,City_Midpines,0.0,828
+LightGBM,City_Midway City,0.0,829
+LightGBM,City_Alamo,0.0,830
+LightGBM,City_Millbrae,0.0,831
+LightGBM,City_Milpitas,0.0,832
+LightGBM,City_Mineral,0.0,833
+LightGBM,City_Mira Mesa,0.0,834
+LightGBM,City_Miramonte,0.0,835
+LightGBM,City_Mission Hills,0.0,836
+LightGBM,City_Manhattan Beach,0.0,837
+LightGBM,City_Manchester,0.0,838
+LightGBM,City_Mammoth Lakes,0.0,839
+LightGBM,City_Los Angeles,0.0,840
+LightGBM,City_Lodi,0.0,841
+LightGBM,City_Loma Linda,0.0,842
+LightGBM,City_Loma Mar,0.0,843
+LightGBM,City_Loma Rica,0.0,844
+LightGBM,City_Lomita,0.0,845
+LightGBM,City_Lompoc,0.0,846
+LightGBM,City_Long Beach,0.0,847
+LightGBM,City_Loomis,0.0,848
+LightGBM,City_Los Alamitos,0.0,849
+LightGBM,City_Los Alamos,0.0,850
+LightGBM,City_Los Altos,0.0,851
+LightGBM,City_Los Altos Hills,0.0,852
+LightGBM,City_Los Banos,0.0,853
+LightGBM,City_Malibu,0.0,854
+LightGBM,City_Los Feliz,0.0,855
+LightGBM,City_Los Gatos,0.0,856
+LightGBM,City_Los Molinos,0.0,857
+LightGBM,City_Los Olivos,0.0,858
+LightGBM,City_Los Osos,0.0,859
+LightGBM,City_Lower Lake,0.0,860
+LightGBM,City_Lucerne,0.0,861
+LightGBM,City_Lucerne Valley,0.0,862
+LightGBM,City_Lynwood,0.0,863
+LightGBM,City_Lytle Creek,0.0,864
+LightGBM,City_Madera,0.0,865
+LightGBM,City_Magalia,0.0,866
+LightGBM,City_La Habra Heights,0.0,867
+LightGBM,City_La Habra,0.0,868
+LightGBM,City_La Grange,0.0,869
+LightGBM,City_La Crescenta,0.0,870
+LightGBM,City_Glen Ellen,0.0,871
+LightGBM,City_Glencoe,0.0,872
+LightGBM,City_Glendale,0.0,873
+LightGBM,City_Glendora,0.0,874
+LightGBM,City_Glenhaven,0.0,875
+LightGBM,City_Glenn,0.0,876
+LightGBM,City_Gold River,0.0,877
+LightGBM,City_Goleta,0.0,878
+LightGBM,City_Gonzales,0.0,879
+LightGBM,City_Granada Hills,0.0,880
+LightGBM,City_Grand Terrace,0.0,881
+LightGBM,City_Granite Bay,0.0,882
+LightGBM,City_Grass Valley,0.0,883
+LightGBM,City_Green Valley,0.0,884
+LightGBM,City_Green Valley Lake,0.0,885
+LightGBM,City_Greenfield,0.0,886
+LightGBM,City_Gridley,0.0,887
+LightGBM,City_Groveland,0.0,888
+LightGBM,City_Grover Beach,0.0,889
+LightGBM,City_Guadalupe,0.0,890
+LightGBM,City_Gualala,0.0,891
+LightGBM,City_Guatay,0.0,892
+LightGBM,City_Gustine,0.0,893
+LightGBM,City_Hacienda Heights,0.0,894
+LightGBM,City_Half Moon Bay,0.0,895
+LightGBM,City_Hanford,0.0,896
+LightGBM,City_Harbor City,0.0,897
+LightGBM,City_Glassell Park,0.0,898
+LightGBM,City_Gilroy,0.0,899
+LightGBM,City_Gerber,0.0,900
+LightGBM,City_Fort Bragg,0.0,901
+LightGBM,City_Fallbrook,0.0,902
+LightGBM,City_Fawnskin,0.0,903
+LightGBM,City_Felton,0.0,904
+LightGBM,City_Fillmore,0.0,905
+LightGBM,City_Firebaugh,0.0,906
+LightGBM,City_Flournoy,0.0,907
+LightGBM,City_Folsom,0.0,908
+LightGBM,City_Fontana,0.0,909
+LightGBM,City_Forbestown,0.0,910
+LightGBM,City_Forest Falls,0.0,911
+LightGBM,City_Forest Ranch,0.0,912
+LightGBM,City_Foresthill,0.0,913
+LightGBM,City_Fortuna,0.0,914
+LightGBM,City_Gardena,0.0,915
+LightGBM,City_Foster City,0.0,916
+LightGBM,City_Fountain Valley,0.0,917
+LightGBM,City_Fowler,0.0,918
+LightGBM,City_Frazier Park,0.0,919
+LightGBM,City_Freedom,0.0,920
+LightGBM,City_Fremont,0.0,921
+LightGBM,City_French Valley,0.0,922
+LightGBM,City_Fresno,0.0,923
+LightGBM,City_Friant,0.0,924
+LightGBM,City_Fullerton,0.0,925
+LightGBM,City_Galt,0.0,926
+LightGBM,City_Garden Grove,0.0,927
+LightGBM,City_Hawaiian Gardens,0.0,928
+LightGBM,City_Hawthorne,0.0,929
+LightGBM,City_Hayfork,0.0,930
+LightGBM,City_Junction City,0.0,931
+LightGBM,City_Ione,0.0,932
+LightGBM,City_Irvine,0.0,933
+LightGBM,City_Irwindale,0.0,934
+LightGBM,City_Isleton,0.0,935
+LightGBM,City_Jackson,0.0,936
+LightGBM,City_Jacumba,0.0,937
+LightGBM,City_Jamestown,0.0,938
+LightGBM,City_Jamul,0.0,939
+LightGBM,City_Janesville,0.0,940
+LightGBM,City_Johnson Valley,0.0,941
+LightGBM,City_Joshua Tree,0.0,942
+LightGBM,City_Julian,0.0,943
+LightGBM,City_Juniper Hills,0.0,944
+LightGBM,City_Indio,0.0,945
+LightGBM,City_Jurupa Valley,0.0,946
+LightGBM,City_Keene,0.0,947
+LightGBM,City_Kelseyville,0.0,948
+LightGBM,City_Kennedy Meadows,0.0,949
+LightGBM,City_Kensington,0.0,950
+LightGBM,City_Kerman,0.0,951
+LightGBM,City_Kernville,0.0,952
+LightGBM,City_King City,0.0,953
+LightGBM,City_Kings Beach,0.0,954
+LightGBM,City_Kingsburg,0.0,955
+LightGBM,City_Knightsen,0.0,956
+LightGBM,City_La Canada Flintridge,0.0,957
+LightGBM,City_Inglewood,0.0,958
+LightGBM,City_Indian Wells,0.0,959
+LightGBM,City_Hayward,0.0,960
+LightGBM,City_Hillsborough,0.0,961
+LightGBM,City_Healdsburg,0.0,962
+LightGBM,City_Helendale,0.0,963
+LightGBM,City_Hemet,0.0,964
+LightGBM,City_Herald,0.0,965
+LightGBM,City_Hercules,0.0,966
+LightGBM,City_Hermosa Beach,0.0,967
+LightGBM,City_Hesperia,0.0,968
+LightGBM,City_Hidden Hills,0.0,969
+LightGBM,City_Hidden Valley Lake,0.0,970
+LightGBM,City_Highgrove,0.0,971
+LightGBM,City_Highland,0.0,972
+LightGBM,City_Highland Park,0.0,973
+LightGBM,City_Hilmar,0.0,974
+LightGBM,City_Imperial Beach,0.0,975
+LightGBM,City_Hinkley,0.0,976
+LightGBM,City_Hollister,0.0,977
+LightGBM,City_Hollywood Hills,0.0,978
+LightGBM,City_Hollywood Hills East,0.0,979
+LightGBM,City_Homeland,0.0,980
+LightGBM,City_Hornbrook,0.0,981
+LightGBM,City_Hughson,0.0,982
+LightGBM,City_Huntington Beach,0.0,983
+LightGBM,City_Huntington Park,0.0,984
+LightGBM,City_Huron,0.0,985
+LightGBM,City_Idyllwild,0.0,986
+LightGBM,City_Imperial,0.0,987
+LightGBM,City_Mill Valley,0.0,988

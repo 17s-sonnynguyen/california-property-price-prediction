@@ -1,0 +1,14 @@
+{
+    "model_name": "LightGBM",
+    "target_column": "ClosePrice",
+    "feature_count": 988,
+    "selection_metric": "RMSE",
+    "validation_strategy": "Final 20 percent of the training period",
+    "test_metrics": {
+        "MAE": 284937.7094578414,
+        "RMSE": 1226080.4284864268,
+        "MAPE": 35.967626934240215,
+        "MdAPE": 15.709497228425626,
+        "R2": 0.4661455304964903
+    }
+}
