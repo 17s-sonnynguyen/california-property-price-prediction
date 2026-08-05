@@ -1,0 +1,16 @@
+{
+    "selected_model": "XGBoost",
+    "selection_source": "Chronological validation subset from training data",
+    "final_evaluation_source": "Untouched chronological test set",
+    "validation_fraction": 0.2,
+    "training_observations": 49703,
+    "test_observations": 12024,
+    "feature_count": 988,
+    "test_metrics": {
+        "MAE": 251555.60367271645,
+        "RMSE": 2068142.5960185507,
+        "MAPE": 33.8267253390885,
+        "MdAPE": 10.091,
+        "R2": -0.5189585477867751
+    }
+}
